@@ -52,6 +52,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Libraries/Packages/Scripts
 
+- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+- [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+- [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+- [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
+
 ## Follow
 
 <!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
@@ -59,13 +64,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ### Official
 
 - [pola-rs (\@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [\@DataPolars](https://twitter.com/DataPolars)).
-- [Ritchie Vink   (\@ritchie46)](https://github.com/ritchie46) - Author of Polars
+- [Ritchie Vink (\@ritchie46)](https://github.com/ritchie46) - Author of Polars
 - [Stijn de Gooijer (\@stinodego)](https://github.com/stinodego) - Member of Polars organisation 
-- [Danny van Kooten  (\@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
+- [Danny van Kooten (\@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
 - [Søren Havelund Welling (\@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
 - [Alexander Beedie (\@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
-
-### Community
 
 ## Contributing
 
