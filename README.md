@@ -22,7 +22,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Contents
 
-- [Featured (new releases)](#featured-new-releases)
 - [Official documentation \& quickstarts](#official-documentation--quickstarts)
 - [Tutorials \& workshops](#tutorials--workshops)
 - [Blog posts](#blog-posts)
@@ -30,8 +29,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Libraries/Packages/Scripts](#librariespackagesscripts)
 - [Follow](#follow)
   - [Official](#official)
-  - [Community](#community)
-- [Contributing](#Contributing)
 
 ## Official documentation & quickstarts
 
@@ -41,9 +38,12 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Documentation for Node.js API ](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
 - [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
 - [Github: Polars Github Organization](https://rpolars.github.io/reference/index.html) - Official Polars Github repository.
-- [Blog from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
+- [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 
 ## Tutorials & workshops
+
+- [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/) - A practical guide to replacing Pandas with Polars, comparing functionally used by most people. By [\@danielbeach](https://github.com/danielbeach) (materials: <https://github.com/danielbeach/PandasVsPolars>).
+
 
 ## Blog posts
 
@@ -52,7 +52,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Talks and videos
 
 - [Polars: Blazingly Fast DataFrames in Rust and Python](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
-- [Polars: The Next Big Python Data Science Library... written in RUST?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [Rob Mulla (\@RobMulla)](https://github.com/RobMulla).
+- [Polars: The Next Big Python Data Science Library... written in RUST?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [\@RobMulla](https://github.com/RobMulla).
 
 
 ## Libraries/Packages/Scripts
@@ -63,8 +63,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
 
 ## Follow
-
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
 
 ### Official
 
