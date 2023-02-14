@@ -42,7 +42,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Tutorials & workshops
 
-- [Replacing Pandas with Polars. A Practical Guide](https://www.confessionsofadataguy.com/replacing-pandas-with-polars-a-practical-guide/) - A practical guide to replacing Pandas with Polars, comparing functionally used by most people. By [\@danielbeach](https://github.com/danielbeach) (materials: <https://github.com/danielbeach/PandasVsPolars>).
+- Coming soon...
 
 
 ## Blog posts
