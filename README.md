@@ -47,6 +47,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Blog posts
 
+- [Using the Polars DataFrame Library](https://www.codemag.com/Article/2212051/Using-the-Polars-DataFrame-Library) - A blog post to discover the basics of Polars and how it can be used in place of Pandas.
+
 ## Talks and videos
 
 - [Websites & Books & Blogs, oh my! Creating Rich Content with Quarto](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
