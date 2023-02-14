@@ -36,6 +36,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Official documentation & quickstarts
 
+- [Documentation for Python](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python.
+- [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
+
 ## Tutorials & workshops
 
 ## Blog posts
