@@ -68,4 +68,4 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Contributing
 
-Thanks goes to these [contributors](https://github.com/dotta/awesome-polars/graphs/contributors)!
+Thanks goes to these [contributors](https://github.com/ddotta/awesome-polars/graphs/contributors)!
