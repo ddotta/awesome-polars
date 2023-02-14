@@ -12,6 +12,8 @@
 
 </div>
 
+-------------------
+
 Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml) (easier).
