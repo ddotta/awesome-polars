@@ -47,8 +47,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Blog posts
 
-
-
 ## Talks and videos
 
 ## Libraries/Packages/Scripts
@@ -59,8 +57,15 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ### Official
 
+- [pola-rs (\@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [\@DataPolars](https://twitter.com/DataPolars)).
+- [Ritchie Vink   (\@ritchie46)](https://github.com/ritchie46) - Author of Polars
+- [Stijn de Gooijer (\@stinodego)](https://github.com/stinodego) - Member of Polars organisation 
+- [Danny van Kooten  (\@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
+- [Søren Havelund Welling (\@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
+- [Alexander Beedie (\@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
+
 ### Community
 
 ## Contributing
 
-Thanks goes to these [contributors](https://github.com/mcanouil/awesome-quarto/graphs/contributors)!
+Thanks goes to these [contributors](https://github.com/dotta/awesome-polars/graphs/contributors)!
