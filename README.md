@@ -49,6 +49,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 - [Using the Polars DataFrame Library](https://www.codemag.com/Article/2212051/Using-the-Polars-DataFrame-Library) - A blog post by Wei-Meng Lee to discover the basics of Polars and how it can be used in place of Pandas.
 - [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
+- [Plodding with Polars in Python](https://levelup.gitconnected.com/plodding-with-polars-in-python-defe8399eee6) - A blog post by [\@amitrathore](https://github.com/amitrathore) that introduces some basic features of Polars.
 
 ## Talks and videos
 
