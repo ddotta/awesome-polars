@@ -41,11 +41,13 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
 - [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
 - [Github: Polars Github Organization](https://rpolars.github.io/reference/index.html) - Official Polars Github repository.
-
+- [Blog from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 
 ## Tutorials & workshops
 
 ## Blog posts
+
+
 
 ## Talks and videos
 
