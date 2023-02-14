@@ -73,6 +73,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Danny van Kooten (\@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
 - [Søren Havelund Welling (\@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
 - [Alexander Beedie (\@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
+- [Marco Edward Gorelli  (\@MarcoGorelli )](https://github.com/MarcoGorelli ) - Contributor to Polars projects
 
 ## Contributing
 
