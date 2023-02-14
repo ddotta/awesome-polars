@@ -4,7 +4,7 @@
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
 
-[Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python and R.
+[Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.
 
 <a href="https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
   <img src="media/polars-logo-dimmed.png" alt-text="Polars's logo."/>
@@ -39,6 +39,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 - [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
 - [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
+- [Documentation for Node.js API ](https://pola-rs.github.io/nodejs-polars/index.html) - Official API Reference for Node.js.
 - [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
 - [Github: Polars Github Organization](https://rpolars.github.io/reference/index.html) - Official Polars Github repository.
 - [Blog from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
