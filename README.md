@@ -36,8 +36,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Official documentation & quickstarts
 
-- [Documentation for Python](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python.
+- [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 - [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
+- [Documentation for Rust API ](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
+- [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
+
 
 ## Tutorials & workshops
 
@@ -46,8 +49,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Talks and videos
 
 ## Libraries/Packages/Scripts
-
-### Official
 
 ## Follow
 
