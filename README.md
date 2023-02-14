@@ -33,8 +33,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
   - [Community](#community)
 - [Contributing](#Contributing)
 
-## Featured (new releases)
-
 ## Official documentation & quickstarts
 
 - [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
@@ -50,6 +48,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Blog posts
 
 ## Talks and videos
+
+- [Websites & Books & Blogs, oh my! Creating Rich Content with Quarto](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
+
 
 ## Libraries/Packages/Scripts
 
