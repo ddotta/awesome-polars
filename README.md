@@ -4,7 +4,8 @@
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
 
-[Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.
+[Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.  
+Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
 <a href="https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
   <img src="media/polars-logo-dimmed.png" alt-text="Polars's logo."/>
@@ -52,9 +53,9 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Libraries/Packages/Scripts
 
-- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 - [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 - [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 - [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
 
 ## Follow
