@@ -4,11 +4,11 @@
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
 
-<a href=https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
+[Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python and R.
+
+<a href="https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
   <img src="media/polars-logo-dimmed.png" alt-text="Polars's logo."/>
 </a>
-
-> [Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python and R.
 
 </div>
 
