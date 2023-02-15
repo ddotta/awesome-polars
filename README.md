@@ -56,7 +56,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 ## Talks and videos
 
 - [Polars: Blazingly Fast DataFrames in Rust and Python](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
-- [Polars: The Next Big Python Data Science Library... written in RUST?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [\@RobMulla](https://github.com/RobMulla).
+- [Polars: The Next Big Python Data Science Library... written in Rust?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [\@RobMulla](https://github.com/RobMulla).
+- [The Last Polars Dataframe vs. Pandas Dataframe Video You Should Ever See](https://www.youtube.com/watch?v=4oZiah1R6L8) - A video that compares Polars and Pandas data frames.
 
 
 ## Libraries/Packages/Scripts
