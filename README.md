@@ -27,6 +27,10 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
 - [Libraries/Packages/Scripts](#librariespackagesscripts)
+  - [Python](#python)
+  - [Rust](#rust)
+  - [R](#official)
+  - [Node.js](nodejs)
 - [Follow](#follow)
   - [Official](#official)
 
@@ -64,12 +68,24 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Libraries/Packages/Scripts
 
+### Python
+
 - [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
-- [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
-- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
-- [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
+
+### Rust
+
+- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 - [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
+
+### R
+
+- [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+
+### Node.js
+
+- [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
+
 
 ## Follow
 
@@ -81,7 +97,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Danny van Kooten (\@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
 - [Søren Havelund Welling (\@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
 - [Alexander Beedie (\@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
-- [Marco Edward Gorelli  (\@MarcoGorelli )](https://github.com/MarcoGorelli ) - Contributor to Polars projects
+- [Marco Edward Gorelli (\@MarcoGorelli )](https://github.com/MarcoGorelli ) - Contributor to Polars projects
+
 
 ## Contributing
 
