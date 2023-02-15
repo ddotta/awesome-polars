@@ -42,7 +42,8 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Tutorials & workshops
 
-- Coming soon...
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [(\@kevinheavey)](https://github.com/kevinheavey).
+
 
 
 ## Blog posts
