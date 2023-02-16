@@ -56,6 +56,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
 - [Plodding with Polars in Python](https://levelup.gitconnected.com/plodding-with-polars-in-python-defe8399eee6) - A blog post by [\@amitrathore](https://github.com/amitrathore) that introduces some basic features of Polars.
 - [Polars-lazy](https://lib.rs/crates/polars-lazy) - A blog post by [(\@ritchie46)](https://github.com/ritchie46) and [\@jorgecarleitao](https://github.com/jorgecarleitao) that introduces Polars' lazy API in Rust.
+- [Series of posts on Polars](https://www.rhosignal.com/tags/polars/) - A series of blogpost on Polars usage with a lot of useful tricks and information by [(\@braaannigan)](https://github.com/braaannigan). Moreover, Liam also has a [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/?couponCode=DISCOUNTCODE) course on Udemy.
 
 
 ## Talks and videos
