@@ -13,14 +13,14 @@ jobs:
   build-push:
     name: "Build & Push docs"
     runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     
     steps:
 
     # Checkout source code
     - name: Checkout
       uses: actions/checkout@v2
-      with:
-        token: ${{ secrets.GH_TOKEN }}
       
     # Cache dependencies for faster build time in future
     - name: Cache dependencies
