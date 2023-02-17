@@ -1,0 +1,23 @@
+site_name: Awesome Polars
+site_url: https://ddotta.github.io/awesome-polars/
+site_description: A curated list of awesome Polars talks, tools, examples and articles.
+site_author: Dotta Damien
+repo_name: ddotta/awesome-polars
+repo_url: https://github.com/ddotta/awesome-polars
+theme:
+  name: material
+  palette:
+    primary: purple
+    accent: deep purple
+  features:
+    - content.action.edit
+extra:
+  social:
+    - type: github
+      link: https://github.com/ddotta
+    - type: linkedin
+      link: https://www.linkedin.com/in/damien-dotta-078a18101/
+extra_css:
+    - css/extra.css
+nav:
+  - "Try Polars, it could be amazing !": "index.md"
