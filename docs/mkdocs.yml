@@ -1,11 +1,7 @@
 site_name: Awesome Polars
 site_description: A curated list of awesome Polars talks, tools, examples and articles.
 
-site_dir: docs-build
-
-site_author: Dotta Damien
-repo_name: ddotta/awesome-polars
-repo_url: https://github.com/ddotta/awesome-polars
+docs_dir: ../docs/
 
 theme:
   name: 'material'

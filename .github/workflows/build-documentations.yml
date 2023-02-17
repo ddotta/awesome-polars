@@ -33,6 +33,11 @@ jobs:
       run: |
         pip install -IU -r mkdocs-pip.txt
 
+    # Copy README in docs folder (index.md)
+    - name: Copy README
+      run: |
+        cp README.md docs/index.md
+
     # Build docs
     - name: Build documentations
       run: |
