@@ -4,10 +4,10 @@ env:
   PIP_CACHE_DIR: .pip # Configure the PIP cache directory
   DOCUMENTATIONS_BRANCH: gh-pages # Configure the documentations branch, which you will use for Github pages
 
-on:
-  push:
+# on:
+  # push:
     # paths: [ README.md ] # Only trigger workflow when there are changes on README.md
-    branches: [ gh-pages ] # Configure the branchs which you want to run this workflow
+    # branches: [ gh-pages ] # Configure the branchs which you want to run this workflow
     
 jobs:
   build-push:
