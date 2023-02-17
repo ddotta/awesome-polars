@@ -58,8 +58,6 @@ jobs:
         mkdir RELEASE
         mv .git RELEASE/.git
         cd RELEASE
-        echo "Checking out $DEPLOY_BRANCH"
-        git checkout -b $DEPLOY_BRANCH
         git status
         git stash && git stash drop
         (git pull --depth 1 origin $DEPLOY_BRANCH --rebase -X theirs --allow-unrelated-histories) || (echo "Main branch synced")
