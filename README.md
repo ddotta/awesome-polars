@@ -1,6 +1,7 @@
 <div align="center">
 
-# Awesome Polars
+# Awesome Polars  
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
 
