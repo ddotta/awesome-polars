@@ -3,7 +3,7 @@
 # Awesome Polars  
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-*A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
+*A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*  
 
 [Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.  
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
@@ -21,21 +21,22 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).
 
-## Contents
-
-- [Official documentation \& quickstarts](#official-documentation--quickstarts)
+# Contents
+- [Official documentation \& quickstarts](#official-documentation)
 - [Tutorials \& workshops](#tutorials--workshops)
 - [Blog posts](#blog-posts)
 - [Talks and videos](#talks-and-videos)
 - [Libraries/Packages/Scripts](#librariespackagesscripts)
-  - [Python](#python)
-  - [Rust](#rust)
-  - [R](#official)
-  - [Node.js](#nodejs)
-- [Follow](#follow)
-  - [Official](#official)
+- [Python](#python)
+- [Rust](#rust)
+- [R](#official)
+- [Node.js](#nodejs)
+- [Follow](#follow-official)
+- [Contributing](#contributing)
 
-## Official documentation & quickstarts
+## Resources
+
+### Official documentation
 
 - [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 - [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
@@ -45,13 +46,11 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 - [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 
-## Tutorials & workshops
+### Tutorials & workshops
 
 - [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [(\@kevinheavey)](https://github.com/kevinheavey).
 
-
-
-## Blog posts
+### Blog posts
 
 - [Using the Polars DataFrame Library](https://www.codemag.com/Article/2212051/Using-the-Polars-DataFrame-Library) - A blog post by Wei-Meng Lee to discover the basics of Polars and how it can be used in place of Pandas.
 - [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
@@ -59,14 +58,12 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Polars-lazy](https://lib.rs/crates/polars-lazy) - A blog post by [(\@ritchie46)](https://github.com/ritchie46) and [\@jorgecarleitao](https://github.com/jorgecarleitao) that introduces Polars' lazy API in Rust.
 - [Series of posts on Polars](https://www.rhosignal.com/tags/polars/) - A series of blogpost on Polars usage with a lot of useful tricks and information by [(\@braaannigan)](https://github.com/braaannigan). Moreover, Liam also has a [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/?couponCode=DISCOUNTCODE) course on Udemy.
 
-
-## Talks and videos
+### Talks and videos
 
 - [Polars: Blazingly Fast DataFrames in Rust and Python](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
 - [Polars: The Next Big Python Data Science Library... written in Rust?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [\@RobMulla](https://github.com/RobMulla).
 - [The Last Polars Dataframe vs. Pandas Dataframe Video You Should Ever See](https://www.youtube.com/watch?v=4oZiah1R6L8) - A video that compares Polars and Pandas data frames.
 - [The Best library for building Data Pipelines...](https://www.youtube.com/watch?v=mi9f9zOaqM8) - A video that compares Pandas, Spark and Polars for working with data in Python by [\@RobMulla](https://github.com/RobMulla).
-
 
 ## Libraries/Packages/Scripts
 
@@ -89,9 +86,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
 
 
-## Follow
-
-### Official
+## Follow : Official
 
 - [pola-rs (\@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [\@DataPolars](https://twitter.com/DataPolars)).
 - [Ritchie Vink (\@ritchie46)](https://github.com/ritchie46) - Author of Polars
@@ -100,7 +95,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Søren Havelund Welling (\@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
 - [Alexander Beedie (\@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
 - [Marco Edward Gorelli (\@MarcoGorelli )](https://github.com/MarcoGorelli ) - Contributor to Polars projects
-
 
 ## Contributing
 
