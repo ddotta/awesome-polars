@@ -1,7 +1,7 @@
 <div align="center">
 
 # Awesome Polars  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*  
 
@@ -9,17 +9,19 @@
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
 <a href="https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
-  <img src="media/polars-logo-dimmed.png" alt-text="Polars's logo."/>
+  <img src="media/polars-logo-dark.png" alt-text="Polars's logo."/>
 </a>
 
 </div>
 
 -------------------
 
+<div>
 Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:
 
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml) (easier).
 - Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).
+</div>
 
 # Contents
 - [Official documentation \& quickstarts](#official-documentation)
