@@ -2,12 +2,12 @@ name: Build documentations
 
 env:
   PIP_CACHE_DIR: .pip # Configure the PIP cache directory
-  DOCUMENTATIONS_BRANCH: gh-pages # Configure the documentations branch, which you will use for Github pages
+  DOCUMENTATIONS_BRANCH: main # Configure the documentations branch, which you will use for Github pages
 
 on:
   push:
     # paths: [ README.md ] # Only trigger workflow when there are changes on README.md
-    # branches: [ gh-pages ] # Configure the branchs which you want to run this workflow
+    # branches: [ main ] # Configure the branchs which you want to run this workflow
     
 jobs:
   build-push:
@@ -43,14 +43,14 @@ jobs:
       run: |
         mkdocs build
 
-    # Synchronize & push BUILD directory to gh-pages branch
+    # Synchronize & push BUILD directory to main branch
     - name: Configure Git informations
       run: |
         git config --global user.name $GITHUB_ACTOR
         git config --global user.email $GITHUB_ACTOR@users.noreply.github.com
         
 
-    - name: Synchronize & push into magh-pages in branch
+    - name: Synchronize & push into main in branch
       run: |
         DEPLOY_BRANCH=$DOCUMENTATIONS_BRANCH
         GIT_COMMIT=$(git rev-parse --short HEAD)
@@ -67,7 +67,7 @@ jobs:
         cd ..
 
         # Push build into the main branch
-        mv main-build BUILD
+        mv docs-build BUILD
         echo "Pushing build $GIT_COMMIT to $DEPLOY_BRANCH"
         mv .git BUILD/.git
         cd BUILD
