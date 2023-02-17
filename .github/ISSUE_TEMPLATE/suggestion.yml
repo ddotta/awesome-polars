@@ -1,0 +1,68 @@
+name: Suggestion
+description: Help us improve with suggestions
+labels: [suggestion]
+assignees: ddotta
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this suggestion form!
+  - type: input
+    id: suggestion
+    attributes:
+      label: Link to suggestion
+      description: Please share a link to your suggestion
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    validations:
+      required: true
+    attributes:
+      label: Targeted section
+      description: Please select the section you wish your suggestion to appear in.
+      multiple: false
+      options:
+        - Require a new section (please describe below)
+        - Official documentation & quickstarts
+        - Tutorials & workshops
+        - Blog posts
+        - Talks and videos
+        - Supported editors
+        - Libraries/Packages/Scripts
+        - Continuous integration / Continuous deployment
+        - Extensions
+        - Templates/Journals
+        - Templates/Presentations
+        - Templates/HTML Documents
+        - Templates/PDF Documents
+        - Templates/Docx Documents
+        - Repository templates
+        - Real life examples/Presentations formats
+        - Real life examples/Websites formats
+        - Real life examples/Book formats
+        - Real life examples/Other formats
+        - Follow/Official
+        - Follow/Community
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe your suggestion
+      description: How and why is your suggestion useful to this community?
+      placeholder: I wish to see tool <xyz> here because it is used for ...
+    validations:
+      required: true
+  - type: checkboxes
+    id: Checklist
+    attributes:
+      label: Checklist
+      description: |
+        When filing a _suggestion_, please check the boxes below to confirm that you have:
+      options:
+        - label: checked if your suggestion is not already listed in __Awesome Polars__ list.
+          required: true
+        - label: checked if it can fit in an existed section or suggest a new section and explain why your item does not fit into one and what would be the interest of your new section.
+          required: true
+        - label: checked when it's a repository if it's maintained (archived repository will be rejected).
+          required: true
