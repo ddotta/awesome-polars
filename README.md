@@ -1,6 +1,5 @@
 <div align="center">
-
-# Awesome Polars  
+ 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*  
@@ -8,9 +7,7 @@
 [Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.  
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
-<a href="https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
-  <img src="media/polars-logo-dark.png" alt-text="Polars's logo."/>
-</a>
+[![]("media/polars-logo-dark.png")](https://www.pola.rs/)   
 
 </div>
 
@@ -23,7 +20,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).  
 </div>
 
-# Contents
+# Awesome Polars
 - [Official documentation \& quickstarts](#official-documentation)
 - [Tutorials \& workshops](#tutorials--workshops)
 - [Blog posts](#blog-posts)
