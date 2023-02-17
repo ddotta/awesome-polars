@@ -7,7 +7,7 @@
 [Polars](https://www.pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.  
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
-[![]("media/polars-logo-dark.png")](https://www.pola.rs/)   
+[![](media/polars-logo-dark.png](https://www.pola.rs/)   
 
 </div>
 
