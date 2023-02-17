@@ -2,7 +2,7 @@ name: Build documentations
 
 env:
   PIP_CACHE_DIR: .pip # Configure the PIP cache directory
-  DOCUMENTATIONS_BRANCH: gh-pages # Configure the documentations branch, which you will use for Github pages
+  DOCUMENTATIONS_BRANCH: main # Configure the documentations branch, which you will use for Github pages
 
 on:
   push:
