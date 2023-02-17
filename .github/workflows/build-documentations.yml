@@ -38,14 +38,14 @@ jobs:
       run: |
         mkdocs build
 
-    # Synchronize & push BUILD directory to docs branch
+    # Synchronize & push BUILD directory to main branch
     - name: Configure Git informations
       run: |
         git config --global user.name $GITHUB_ACTOR
         git config --global user.email $GITHUB_ACTOR@users.noreply.github.com
         
 
-    - name: Synchronize & push into docs branch
+    - name: Synchronize & push into main branch
       run: |
         DEPLOY_BRANCH=$DOCUMENTATIONS_BRANCH
         GIT_COMMIT=$(git rev-parse --short HEAD)
@@ -57,12 +57,12 @@ jobs:
         git checkout -b $DEPLOY_BRANCH
         git status
         git stash && git stash drop
-        (git pull --depth 1 origin $DEPLOY_BRANCH --rebase -X theirs --allow-unrelated-histories) || (echo "Docs branch synced")
+        (git pull --depth 1 origin $DEPLOY_BRANCH --rebase -X theirs --allow-unrelated-histories) || (echo "Main branch synced")
         mv ./.git ../.git
         cd ..
 
-        # Push build into the docs branch
-        mv docs-build BUILD
+        # Push build into the mains branch
+        mv main-build BUILD
         echo "Pushing build $GIT_COMMIT to $DEPLOY_BRANCH"
         mv .git BUILD/.git
         cd BUILD
