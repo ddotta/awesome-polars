@@ -6,7 +6,7 @@ env:
 
 on:
   push:
-    paths: [ README.md ] # Only trigger workflow when there are changes on README.md
+    # paths: [ README.md ] # Only trigger workflow when there are changes on README.md
     branches: [ main ] # Configure the branchs which you want to run this workflow
     
 jobs:
