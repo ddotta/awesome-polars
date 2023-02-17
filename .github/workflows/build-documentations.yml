@@ -19,6 +19,8 @@ jobs:
     # Checkout source code
     - name: Checkout
       uses: actions/checkout@v2
+      with:
+        token: ${{ secrets.GH_TOKEN }}
       
     # Cache dependencies for faster build time in future
     - name: Cache dependencies
