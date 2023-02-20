@@ -23,17 +23,19 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 </div>
 
 # Awesome Polars
-- [Official documentation \& quickstarts](#official-documentation)
-- [Tutorials \& workshops](#tutorials--workshops)
-- [Blog posts](#blog-posts)
-- [Talks and videos](#talks-and-videos)
-- [Libraries/Packages/Scripts](#librariespackagesscripts)
-- [Python](#python)
-- [Rust](#rust)
-- [R](#official)
-- [Node.js](#nodejs)
-- [Follow](#follow-official)
-- [Contributing](#contributing)
+- [Awesome Polars](#awesome-polars)
+  - [Resources](#resources)
+    - [Official documentation](#official-documentation)
+    - [Tutorials \& workshops](#tutorials--workshops)
+    - [Blog posts](#blog-posts)
+    - [Talks and videos](#talks-and-videos)
+  - [Libraries/Packages/Scripts](#librariespackagesscripts)
+    - [Python](#python)
+    - [Rust](#rust)
+    - [R](#r)
+    - [Node.js](#nodejs)
+  - [Follow : Official](#follow--official)
+  - [Contributing](#contributing)
 
 ## Resources
 
@@ -100,4 +102,6 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 
 ## Contributing
 
+- [Damien Dotta (\@ddotta)](https://github.com/ddotta ) - Maintainer of Awesome Polars list   
+  
 Thanks goes to these [contributors](https://github.com/ddotta/awesome-polars/graphs/contributors)!
