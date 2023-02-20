@@ -61,6 +61,7 @@ Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBU
 - [Polars-lazy](https://lib.rs/crates/polars-lazy) - A blog post by [(\@ritchie46)](https://github.com/ritchie46) and [\@jorgecarleitao](https://github.com/jorgecarleitao) that introduces Polars' lazy API in Rust.
 - [Series of posts on Polars](https://www.rhosignal.com/tags/polars/) - A series of blogpost on Polars usage with a lot of useful tricks and information by [(\@braaannigan)](https://github.com/braaannigan). Moreover, Liam also has a [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/?couponCode=DISCOUNTCODE) course on Udemy.
 - [Youtube videos about Polars](https://www.youtube.com/channel/UC-J3uR0g7CxCSnx0YFE6R_g) - A series of short youtube videos about Polars by [(\@braaannigan)](https://github.com/braaannigan)
+- [Alternatives to Pandas: Python Polars](https://codesolid.com/alternatives-to-pandas-python-polars/) - An article that explores the Python Polars module as an alternative to Pandas, comparing their similarities and differences and providing some examples by [(\@JohnLockwood)](https://github.com/JohnLockwood)
 
 ### Talks and videos
 
