@@ -25,26 +25,16 @@ body:
       multiple: false
       options:
         - Require a new section (please describe below)
-        - Official documentation & quickstarts
+        - Official documentation
         - Tutorials & workshops
         - Blog posts
         - Talks and videos
-        - Supported editors
         - Libraries/Packages/Scripts
-        - Continuous integration / Continuous deployment
-        - Extensions
-        - Templates/Journals
-        - Templates/Presentations
-        - Templates/HTML Documents
-        - Templates/PDF Documents
-        - Templates/Docx Documents
-        - Repository templates
-        - Real life examples/Presentations formats
-        - Real life examples/Websites formats
-        - Real life examples/Book formats
-        - Real life examples/Other formats
-        - Follow/Official
-        - Follow/Community
+        - Python
+        - Rust
+        - R
+        - Node.js
+        - Follow Official
   - type: textarea
     id: description
     attributes:
