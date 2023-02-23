@@ -16,7 +16,9 @@ Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.ap
 -------------------
 
 <div>
-Contributions of any kind welcome, just follow the [guidelines](.github/CONTRIBUTING.md) by either:  
+Contributions of any kind welcome! 
+
+Just follow the [guidelines](.github/CONTRIBUTING.md) by either:  
   
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml) (easier).  
 - Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).  
