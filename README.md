@@ -34,6 +34,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
     - [Tutorials \& workshops](#tutorials--workshops)
     - [Blog posts](#blog-posts)
     - [Talks and videos](#talks-and-videos)
+    - [Cheat Sheets](#cheat-sheets)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Python](#python)
     - [Rust](#rust)
@@ -76,6 +77,10 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [The Last Polars Dataframe vs. Pandas Dataframe Video You Should Ever See](https://www.youtube.com/watch?v=4oZiah1R6L8) - A video that compares Polars and Pandas data frames.
 - [The Best library for building Data Pipelines...](https://www.youtube.com/watch?v=mi9f9zOaqM8) - A video that compares Pandas, Spark and Polars for working with data in Python by [\@RobMulla](https://github.com/RobMulla).
 - [Expressive & fast dataframes in Python with polars](https://www.youtube.com/watch?v=8nYEX0E07zc) - A video that reviews some alternatives to Pandas for Python and then demonstrates some Polars features by Juan Luis Cano Rodríguez.
+
+### Cheat Sheets
+
+- [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) - A 2 page Polars Cheat Sheet by Franz Diebold
 
 ## Libraries/Packages/Scripts
 
