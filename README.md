@@ -23,7 +23,8 @@ Just follow the [guidelines](https://github.com/ddotta/awesome-polars/blob/main/
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml) (easier).  
 - Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).  
 
-To see the latest entries in the list :point_right: [click here !](https://www.trackawesomelist.com/ddotta/awesome-polars/)
+To see the latest entries in the list :point_right: <a href="https://www.trackawesomelist.com/ddotta/awesome-polars/" target="_blank" rel="noopener noreferrer"> click here !
+</a>
 </div>
 
 # Awesome Polars
