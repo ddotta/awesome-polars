@@ -1,6 +1,6 @@
 <div align="center">
  
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)   
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Track Awesome List](https://www.trackawesomelist.com/ddotta/awesome-polars/)
 
 *A curated list of [Polars](https://www.pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*  
 
@@ -22,6 +22,8 @@ Just follow the [guidelines](https://github.com/ddotta/awesome-polars/blob/main/
   
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml) (easier).  
 - Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).  
+
+To see the latest entries in the list :point_right: [click here !](https://www.trackawesomelist.com/ddotta/awesome-polars/)
 </div>
 
 # Awesome Polars
