@@ -31,6 +31,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Awesome Polars](#awesome-polars)
   - [Resources](#resources)
     - [Official documentation](#official-documentation)
+    - [Cheat Sheets](#cheat-sheets)
     - [Tutorials \& workshops](#tutorials--workshops)
     - [Blog posts](#blog-posts)
     - [Talks and videos](#talks-and-videos)
@@ -53,6 +54,10 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
 - [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 - [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
+
+### Cheat Sheets
+
+- [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) - A Polars Cheat Sheet by [\@FranzDiebold](https://github.com/FranzDiebold).
 
 ### Tutorials & workshops
 
