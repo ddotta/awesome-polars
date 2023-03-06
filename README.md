@@ -29,13 +29,13 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 # Awesome Polars
 - [Awesome Polars](#awesome-polars)
-  - [Resources](#resources)
-    - [Official documentation](#official-documentation)
+  - [Official documentation](#official-documentation)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Python](#python)
     - [Rust](#rust)
     - [R](#r)
     - [Node.js](#nodejs)
+  - [Resources](#resources)
     - [Cheat Sheets](#cheat-sheets)
     - [Tutorials \& workshops](#tutorials--workshops)
     - [Blog posts](#blog-posts)
@@ -43,9 +43,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
   - [Follow : Official](#follow--official)
   - [Contributing](#contributing)
 
-## Resources
-
-### Official documentation
+## Official documentation
 
 - [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 - [Documentation for Python API ](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
@@ -75,6 +73,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 - [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
 
+## Resources
 
 ### Cheat Sheets
 
