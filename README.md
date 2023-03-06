@@ -57,29 +57,29 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 ### Cheat Sheets
 
-- [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) - A Polars Cheat Sheet by [\@FranzDiebold](https://github.com/FranzDiebold).
+- [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) - A Polars Cheat Sheet by [@FranzDiebold](https://github.com/FranzDiebold).
 
 ### Tutorials & workshops
 
-- [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [\@kevinheavey](https://github.com/kevinheavey).
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/) - A side by side comparison between Polars and Pandas containing code in both frameworks by [@kevinheavey](https://github.com/kevinheavey).
 
 ### Blog posts
 
 - [Using the Polars DataFrame Library](https://www.codemag.com/Article/2212051/Using-the-Polars-DataFrame-Library) - A blog post by Wei-Meng Lee to discover the basics of Polars and how it can be used in place of Pandas.
 - [Why Polars uses less memory than Pandas](https://pythonspeed.com/articles/polars-memory-pandas/) - A blog post by Itamar Turner-Trauring detailing some techniques to opptimize Pandas memory usage and see how Polars can provide an answer in some cases.
-- [Plodding with Polars in Python](https://levelup.gitconnected.com/plodding-with-polars-in-python-defe8399eee6) - A blog post by [\@amitrathore](https://github.com/amitrathore) that introduces some basic features of Polars.
-- [Polars-lazy](https://lib.rs/crates/polars-lazy) - A blog post by [\@ritchie46](https://github.com/ritchie46) and [\@jorgecarleitao](https://github.com/jorgecarleitao) that introduces Polars' lazy API in Rust.
-- [Series of posts on Polars](https://www.rhosignal.com/tags/polars/) - A series of blogpost on Polars usage with a lot of useful tricks and information by [\@braaannigan](https://github.com/braaannigan). Moreover, Liam also has a [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/?couponCode=DISCOUNTCODE) course on Udemy.
-- [Youtube videos about Polars](https://www.youtube.com/channel/UC-J3uR0g7CxCSnx0YFE6R_g) - A series of short youtube videos about Polars by [\@braaannigan](https://github.com/braaannigan)
-- [Alternatives to Pandas: Python Polars](https://codesolid.com/alternatives-to-pandas-python-polars/) - An article that explores the Python Polars module as an alternative to Pandas, comparing their similarities and differences and providing some examples by [\@JohnLockwood](https://github.com/JohnLockwood)
+- [Plodding with Polars in Python](https://levelup.gitconnected.com/plodding-with-polars-in-python-defe8399eee6) - A blog post by [@amitrathore](https://github.com/amitrathore) that introduces some basic features of Polars.
+- [Polars-lazy](https://lib.rs/crates/polars-lazy) - A blog post by [@ritchie46](https://github.com/ritchie46) and [@jorgecarleitao](https://github.com/jorgecarleitao) that introduces Polars' lazy API in Rust.
+- [Series of posts on Polars](https://www.rhosignal.com/tags/polars/) - A series of blogpost on Polars usage with a lot of useful tricks and information by [@braaannigan](https://github.com/braaannigan). Moreover, Liam also has a [Data Analysis with Polars](https://www.udemy.com/course/data-analysis-with-polars/?couponCode=DISCOUNTCODE) course on Udemy.
+- [Youtube videos about Polars](https://www.youtube.com/channel/UC-J3uR0g7CxCSnx0YFE6R_g) - A series of short youtube videos about Polars by [@braaannigan](https://github.com/braaannigan)
+- [Alternatives to Pandas: Python Polars](https://codesolid.com/alternatives-to-pandas-python-polars/) - An article that explores the Python Polars module as an alternative to Pandas, comparing their similarities and differences and providing some examples by [@JohnLockwood](https://github.com/JohnLockwood)
 - [Pandas vs Polars - A comparison on File I/O](https://www.shipyardapp.com/blog/pandas-vs-polars/) - A blog post that evaluates Polars and Pandas in terms of I/O performance and speed when handling large datasets by Wes Poulsen.
 
 ### Talks and videos
 
 - [Polars: Blazingly Fast DataFrames in Rust and Python](https://www.youtube.com/watch?v=kVy3-gMdViM) - Introduction to Polars by [databricks](https://www.databricks.com/).
-- [Polars: The Next Big Python Data Science Library... written in Rust?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [\@RobMulla](https://github.com/RobMulla).
+- [Polars: The Next Big Python Data Science Library... written in Rust?](https://www.youtube.com/watch?v=VHqn7ufiilE) - A short video tutorial to get started coding with Polars by [@RobMulla](https://github.com/RobMulla).
 - [The Last Polars Dataframe vs. Pandas Dataframe Video You Should Ever See](https://www.youtube.com/watch?v=4oZiah1R6L8) - A video that compares Polars and Pandas data frames.
-- [The Best library for building Data Pipelines...](https://www.youtube.com/watch?v=mi9f9zOaqM8) - A video that compares Pandas, Spark and Polars for working with data in Python by [\@RobMulla](https://github.com/RobMulla).
+- [The Best library for building Data Pipelines...](https://www.youtube.com/watch?v=mi9f9zOaqM8) - A video that compares Pandas, Spark and Polars for working with data in Python by [@RobMulla](https://github.com/RobMulla).
 - [Expressive & fast dataframes in Python with polars](https://www.youtube.com/watch?v=8nYEX0E07zc) - A video that reviews some alternatives to Pandas for Python and then demonstrates some Polars features by Juan Luis Cano Rodríguez.
 
 ## Libraries/Packages/Scripts
@@ -105,16 +105,16 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 ## Follow : Official
 
-- [pola-rs (\@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [\@DataPolars](https://twitter.com/DataPolars)).
-- [Ritchie Vink (\@ritchie46)](https://github.com/ritchie46) - Author of Polars
-- [Stijn de Gooijer (\@stinodego)](https://github.com/stinodego) - Member of Polars organisation 
-- [Danny van Kooten (\@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
-- [Søren Havelund Welling (\@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
-- [Alexander Beedie (\@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
-- [Marco Edward Gorelli (\@MarcoGorelli )](https://github.com/MarcoGorelli ) - Contributor to Polars projects
+- [pola-rs (@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [@DataPolars](https://twitter.com/DataPolars)).
+- [Ritchie Vink (@ritchie46)](https://github.com/ritchie46) - Author of Polars
+- [Stijn de Gooijer (@stinodego)](https://github.com/stinodego) - Member of Polars organisation 
+- [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation 
+- [Søren Havelund Welling (@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
+- [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
+- [Marco Edward Gorelli (@MarcoGorelli )](https://github.com/MarcoGorelli ) - Contributor to Polars projects
 
 ## Contributing
 
-- [Damien Dotta (\@ddotta)](https://github.com/ddotta ) - Maintainer of Awesome Polars list   
+- [Damien Dotta (@ddotta)](https://github.com/ddotta ) - Maintainer of Awesome Polars list   
   
 Thanks goes to these [contributors](https://github.com/ddotta/awesome-polars/graphs/contributors)!
