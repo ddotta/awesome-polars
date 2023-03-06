@@ -31,15 +31,15 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Awesome Polars](#awesome-polars)
   - [Resources](#resources)
     - [Official documentation](#official-documentation)
-    - [Cheat Sheets](#cheat-sheets)
-    - [Tutorials \& workshops](#tutorials--workshops)
-    - [Blog posts](#blog-posts)
-    - [Talks and videos](#talks-and-videos)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Python](#python)
     - [Rust](#rust)
     - [R](#r)
     - [Node.js](#nodejs)
+    - [Cheat Sheets](#cheat-sheets)
+    - [Tutorials \& workshops](#tutorials--workshops)
+    - [Blog posts](#blog-posts)
+    - [Talks and videos](#talks-and-videos)
   - [Follow : Official](#follow--official)
   - [Contributing](#contributing)
 
@@ -54,6 +54,27 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
 - [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 - [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
+
+## Libraries/Packages/Scripts
+
+### Python
+
+- [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
+- [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
+
+### Rust
+
+- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
+- [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
+
+### R
+
+- [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
+
+### Node.js
+
+- [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
+
 
 ### Cheat Sheets
 
@@ -86,27 +107,6 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Polars: The main alternative to pandas in Python!?](https://www.youtube.com/playlist?list=PLo9Vi5B84_dfAuwJqNYG4XhZMrGTF3sBx) &#9203; `57 min` - A Polars tutorial series on Youtube by [\@martinbel](https://github.com/martinbel). Notebooks and datasets used for the videos available [in this github repo](https://github.com/martinbel/polars-tutorial).
 - [Polars vs Pandas](https://www.youtube.com/watch?v=jU8Ghp7tRCU&ab_channel=hu-po) &#9203; `37 min` - A detailed video on Youtube that compares Polars and Pandas by [\@hu-po](https://github.com/hu-po).
 - [Polars: The Super Fast Dataframe Library for Python — Goodbye Pandas?](https://artificialcorner.com/polars-the-super-fast-dataframe-library-for-python-goodbye-pandas-85156e84337f) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) &#9203; `19 min` that explores some basic features of Polars by [@ifrankandrade](https://github.com/ifrankandrade).
-
-## Libraries/Packages/Scripts
-
-### Python
-
-- [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
-- [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
-
-### Rust
-
-- [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
-- [GeoPolars](https://geopolars.org/) `Geopolars` Rust crate that extends the Polars DataFrame library for use with geospatial data.
-
-### R
-
-- [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
-
-### Node.js
-
-- [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `rpolars` package to use polars DataFrame from Node.js.
-
 
 ## Follow : Official
 
