@@ -81,6 +81,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [The Last Polars Dataframe vs. Pandas Dataframe Video You Should Ever See](https://www.youtube.com/watch?v=4oZiah1R6L8) - A video that compares Polars and Pandas data frames.
 - [The Best library for building Data Pipelines...](https://www.youtube.com/watch?v=mi9f9zOaqM8) - A video that compares Pandas, Spark and Polars for working with data in Python by [\@RobMulla](https://github.com/RobMulla).
 - [Expressive & fast dataframes in Python with polars](https://www.youtube.com/watch?v=8nYEX0E07zc) - A video that reviews some alternatives to Pandas for Python and then demonstrates some Polars features by Juan Luis Cano Rodríguez.
+- [Discover the Power of Polars Library for Fast and Efficient Data Manipulation in Python](https://python.plainenglish.io/discovering-polars-library-1d63c1eefb44) - An article and a [video](https://www.youtube.com/watch?v=CByx7XjYMhw) that explores some basic features of Polars and compares it to other data manipulation libraries by [@ifrankandrade](https://github.com/ifrankandrade).
 
 ## Libraries/Packages/Scripts
 
