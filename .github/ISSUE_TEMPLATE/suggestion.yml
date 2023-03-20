@@ -35,6 +35,7 @@ body:
         - Rust
         - R
         - Node.js
+        - Scala/Java
         - Follow Official
   - type: textarea
     id: description
