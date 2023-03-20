@@ -35,6 +35,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
     - [Rust](#rust)
     - [R](#r)
     - [Node.js](#nodejs)
+    - [Scala/Java](#scalajava)
   - [Resources](#resources)
     - [Cheat Sheets](#cheat-sheets)
     - [Tutorials \& workshops](#tutorials--workshops)
@@ -72,6 +73,10 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 ### Node.js
 
 - [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
+
+### Scala/Java
+
+- [scala-polars for Scala and Java](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
 
 ## Resources
 
