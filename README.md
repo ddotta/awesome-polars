@@ -133,6 +133,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Manipulación de Datos con Polars en python](https://www.youtube.com/watch?v=3RM3pWw2iRQ) - A detailed tutorial video in Spanish that shows 20 Polars functions to perform 80% of the tasks of a data scientist by [Naren Castellon](https://www.linkedin.com/in/naren-castellon-1541b8101/?originalSubdomain=pa).
 - [An opinionated introduction to Polars](https://www.dropbox.com/s/fphay3yav2b2rdq/2023_polars.pdf?dl=1) - Great Polars introduction slides from [@krlng](https://github.com/krlng) at PyCon 2023.
 - [Polars - make the switch to lightning-fast dataframes](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf) - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai).
+- [Polars vs Pandas | detailed test with explained results](https://www.youtube.com/watch?v=tAV-1hPHtsY) &#9203; `22 min` - A video that presents 8 distinct tests which demonstrates differences between Pandas and Polars by [@vb100](https://github.com/vb100). Associated github repo is [here](https://github.com/vb100/polars_vs_pandas).
 
 ## Follow : Official
 
