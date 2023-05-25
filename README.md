@@ -36,6 +36,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
     - [R](#r)
     - [Node.js](#nodejs)
     - [Scala/Java](#scalajava)
+    - [Ruby](#ruby)
   - [Resources](#resources)
     - [Cheat Sheets](#cheat-sheets)
     - [Tutorials \& workshops](#tutorials--workshops)
@@ -79,6 +80,10 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 ### Scala/Java
 
 - [scala-polars for Scala and Java](https://github.com/chitralverma/scala-polars) - [Scala](https://scala-lang.org/) - [Java](https://www.java.com/fr/) `scala-polars` is a library for using Polars in Scala and Java projects by [@chitralverma](https://github.com/chitralverma).
+
+### Ruby
+
+- [polars for Ruby](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
 
 ## Resources
 
