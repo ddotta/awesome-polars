@@ -36,6 +36,7 @@ body:
         - R
         - Node.js
         - Scala/Java
+        - Ruby
         - Follow Official
   - type: textarea
     id: description
