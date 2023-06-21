@@ -157,6 +157,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [An opinionated introduction to Polars](https://www.dropbox.com/s/fphay3yav2b2rdq/2023_polars.pdf?dl=1) - Great Polars introduction slides from [@krlng](https://github.com/krlng) at PyCon 2023.
 - [Polars - make the switch to lightning-fast dataframes](https://www.youtube.com/watch?v=CtkMzCIXOWk) &#9203; `30 min` - A talk that reports an experience switching from Pandas to Polars in a real-world ML project by [@datenzauberai](https://github.com/datenzauberai). Slides are available [here](https://github.com/datenzauberai/PyConDE-2023--Polars-make-the-switch/raw/main/Polars%20-%20make%20the%20switch%20to%20lightning-fast%20dataframes%20-%20Versand.pdf).
 - [Polars vs Pandas | detailed test with explained results](https://www.youtube.com/watch?v=tAV-1hPHtsY) &#9203; `22 min` - A video that presents 8 distinct tests which demonstrates differences between Pandas and Polars by [@vb100](https://github.com/vb100). Associated github repo is [here](https://github.com/vb100/polars_vs_pandas).
+- [Polars: A highly optimized dataframe library](https://www.youtube.com/watch?v=tAV-1hPHtsY) &#9203; `20 min` - A video that presents some mains features of Polars by [@mattharrison](https://github.com/mattharrison).
 
 ## Follow : Official
 
