@@ -149,6 +149,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Pyspark or Polars — What should you use?](https://medium.com/data-engineer-things/pyspark-or-polars-what-should-you-use-breakdown-of-similarities-and-differences-b261a825b9d6) - A blog post that explores and breaks down some of the similarities between PySpark and Polars. It provides insights on when to choose one over the other by [Vivek Kovvuru](https://www.linkedin.com/in/vivekkovvuru/).
 - [Getting Started with the Polars Data Manipulation Library](https://www.analyticsvidhya.com/blog/2023/07/getting-started-with-the-polars-data-manipulation-library/) - A blog post that presents some simple features of Polars using Python by [Juveriya Mahreen](https://www.analyticsvidhya.com/blog/author/codebestway/).
 - [8 ways pandas really losing to Polars for quick market data analysis](https://pyquantnews.com/8-ways-pandas-losing-polars-quick-data-analysis/) - A newsletter that compares the performance of Polars to Pandas for many common data manipulation techniques by [PyQuant News](https://pyquantnews.com/).
+- [All that Polars that Make You Forget Pandas](https://medium.com/@tq9695/all-that-polars-that-make-you-forget-pandas-3dc0fdfaefbe) - A blog post that explores some deeper reasons behind the performance gains of Polars over Pandas.
 
 ### Talks and videos
 
