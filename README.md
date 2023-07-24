@@ -150,6 +150,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Getting Started with the Polars Data Manipulation Library](https://www.analyticsvidhya.com/blog/2023/07/getting-started-with-the-polars-data-manipulation-library/) - A blog post that presents some simple features of Polars using Python by [Juveriya Mahreen](https://www.analyticsvidhya.com/blog/author/codebestway/).
 - [8 ways pandas really losing to Polars for quick market data analysis](https://pyquantnews.com/8-ways-pandas-losing-polars-quick-data-analysis/) - A newsletter that compares the performance of Polars to Pandas for many common data manipulation techniques by [PyQuant News](https://pyquantnews.com/).
 - [All that Polars that Make You Forget Pandas](https://medium.com/@tq9695/all-that-polars-that-make-you-forget-pandas-3dc0fdfaefbe) - A blog post that explores some deeper reasons behind the performance gains of Polars over Pandas.
+- [Polars vs Pandas. Inside an AWS Lambda](https://www.confessionsofadataguy.com/polars-vs-pandas-inside-an-aws-lambda/) - A blog post that covers the topic of using Polars vs Pandas inside an AWS Lambda to do data processing by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here](https://github.com/danielbeach/polarsVpandasOnAwsLambda).
 
 ### Talks and videos
 
