@@ -181,8 +181,8 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Søren Havelund Welling (@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation 
 - [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
 - [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
-- [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars projects
-- [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars projects
+- [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
+- [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
 
 ## Contributing
 
