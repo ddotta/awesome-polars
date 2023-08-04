@@ -55,6 +55,9 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 - [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 
+
+> NEWS (August 2023): Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!
+
 ## Libraries/Packages/Scripts
 
 ### Python
