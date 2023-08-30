@@ -54,6 +54,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Documentation for R API ](https://rpolars.github.io/reference/index.html) - Official API Reference for R (WIP).
 - [Github: Polars Github Organization](https://github.com/pola-rs) - Official Polars Github repository.
 - [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
+- [Keynote on Polars at EuroSciPy 2023](https://www.youtube.com/watch?v=GTVm3QyJ-3I&t=43s) &#9203; `57 min` - Talk by [\@ritchie46](https://github.com/ritchie46) that dives into Polars and sees what makes it so efficient.  It will touch on technologies like Arrow, Rust, parallelism, data structures, query optimization and more.
 
 
 > NEWS (August 2023): Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!
