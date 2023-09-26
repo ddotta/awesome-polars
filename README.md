@@ -186,6 +186,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [How to update mass data using Polars DataFrame](https://www.youtube.com/watch?v=ivJSk6JLWBQ) &#9203; `9 min` - A video that presents the process of writing code to update mass columns across CSV or data files by [\@AmitXShukla](https://github.com/AmitXShukla). Notebook used for the video [in this github repo](https://github.com/AmitXShukla/RPA/blob/main/notebooks/Basic%20calculator.ipynb).
 - [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M) &#9203; `4 min` - A video that shows how to integrate Polars in a commande line interface by [\@paiml](https://github.com/paiml).
 - [The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://www.youtube.com/watch?v=keCvzMihDfk&list=PLp0TENYyY8lHJaY4t5bAihnFS5TBUQYV1) &#9203; `10 videos` - A playlist of 10 videos (WIP) that equips you with all the necessary knowledge required to utilize Python Polars Data Frame by [\@AmitXShukla](https://github.com/AmitXShukla).
+- [Polars DataFrame](https://www.youtube.com/watch?v=clq4NB1OaIA) ⏳ 41 min - A video that shows some basic manipulations with Polars and Python by [@vedica1011](https://github.com/vedica1011). Notebook used for the video [in this github repo](https://github.com/vedica1011/Polars).
 
 ## Follow : Official
 
