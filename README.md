@@ -187,6 +187,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Using the Rust Polars DataFrame library in a CLI](https://www.youtube.com/watch?v=CUQaoAcc95M) &#9203; `4 min` - A video that shows how to integrate Polars in a commande line interface by [\@paiml](https://github.com/paiml).
 - [The Ultimate Guide to Data Wrangling with Python | Rust Polars Data Frame](https://www.youtube.com/watch?v=keCvzMihDfk&list=PLp0TENYyY8lHJaY4t5bAihnFS5TBUQYV1) &#9203; `10 videos` - A playlist of 10 videos (WIP) that equips you with all the necessary knowledge required to utilize Python Polars Data Frame by [\@AmitXShukla](https://github.com/AmitXShukla).
 - [Polars DataFrame](https://www.youtube.com/watch?v=clq4NB1OaIA) ⏳ 41 min - A video that shows some basic manipulations with Polars and Python by [@vedica1011](https://github.com/vedica1011). Notebook used for the video [in this github repo](https://github.com/vedica1011/Polars).
+- [Why I switched grom Pandas to Polars](https://www.youtube.com/watch?v=u5mIDz5ldmI) ⏳ 53 min - A workshop that breaks down the 3 reasons why you could switched from Pandas to Polars by [@bfeif](https://github.com/bfeif). Notebook used for the video [in this github repo](https://github.com/bfeif/personal-website/blob/main/code/notebooks/the-3-reasons-why-i-have-permanently-switched-from-pandas-to-polars.ipynb).
 
 ## Follow : Official
 
