@@ -195,6 +195,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Delimiters in Python Polars](https://www.youtube.com/watch?v=jq1FRZ0VDDk) ⏳ 15 min - A video that explains how to use delimiters in Python Polars by [@CodeKlaudia](https://github.com/CodeKlaudia).
 - [Intro to Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo6M-YXwZ5cadqr3EMwPoteP&si=wc1GLcOGcRZU3Uz1) ⏳ 7 videos - A playlist of 7 videos that introduces the basic concepts of Polars (DataFrames, filtering, splitting...) by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
 - [Machine Learning with Polars](https://youtube.com/playlist?list=PL6FP7t_F5uo60l16AWCJJHLE6liGPqa7u&si=uNsH5I7GUojXeJmw) ⏳ 6 videos - A playlist of 6 videos that analyzing and cleaning data using Polars to train machine learning models by [Joram Mutenge](https://www.linkedin.com/in/jorammutenge/).
+- [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) &#9203; `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [\@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ## Follow : Official
 
