@@ -169,6 +169,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Partitioning Polars DataFrame on S3 with Apache Arrow](https://medium.com/@matteo.arellano/partitioning-polars-dataframe-on-s3-with-apache-arrow-1fa6518d23f1) - A blog post that explains how to partition large Polars DataFrames in AWS S3 by [Matteo Arellano](https://medium.com/@matteo.arellano).
 - [Goodbye Spark. Hello Polars + Delta Lake](https://dataengineeringcentral.substack.com/p/goodbye-spark-hello-polars-delta) - An article that presents how to use Polars in addition to Delta Lake by [@danielbeach](https://github.com/danielbeach).
 - [How to learn Polars with ChatGPT?](https://medium.com/@s.illesinghe/how-to-learn-polars-with-chatgpt-62f67bb0a6f8) - An article that explains how to learn fundamental Polars concepts with ChatGPT by [Suhith Illesinghe](https://medium.com/@s.illesinghe).
+- [Date and DateTime Manipulation in Polars ](https://www.confessionsofadataguy.com/date-and-datetime-manipulation-in-polar/) - A blog post that shows examples of doing a number of date and datetime manipulations in Polars (Python) by [@danielbeach](https://github.com/danielbeach). Code used is available on Github [here](https://github.com/danielbeach/PolarsDateTimeManipulation/tree/main).
 
 
 ### Talks and videos
