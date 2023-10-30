@@ -69,6 +69,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
 - [Python package seaborn_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
 - [Python package functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
+- [polars-business](https://github.com/MarcoGorelli/polars-business) - Polars extension that offers utilities for business day operations with Polars and Python by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Rust
 
