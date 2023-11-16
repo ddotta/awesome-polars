@@ -81,6 +81,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 - [rpolars for R](https://github.com/pola-rs/r-polars) - [R](https://www.r-project.org/) `rpolars` package to use polars DataFrame from R.
 - [tidypolars for R](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
+- [polarssql](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 
 ### Node.js
 
