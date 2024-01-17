@@ -181,6 +181,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Time series Analysis with Polars](https://dev.to/gaborschulz/time-series-analysis-with-polars-3dfg) - A short blog post that explains how to deal with temporal datasets by [@gaborschulz](https://github.com/gaborschulz). Full helpful notebook available [here](https://github.com/gaborschulz/learning-polars/blob/main/01-time-series-analysis/time-series-analysis.ipynb).
 - Interesting thread about Polars on [Hacker News](https://news.ycombinator.com/item?id=38920043)
 - Level Up Your Data Analysis with Polars: A Powerful DataFrame Library for Speed and Efficiency](https://python.plainenglish.io/level-up-your-data-analysis-with-polars-a-powerful-dataframe-library-for-speed-and-efficiency-0b82c226c7f1) - A blog post that describs the main features of Polars (with benchmarks) by [ravi-m](https://ravi-m.medium.com/).
+- [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars/) - A blog post that deeps dive into some of the advanced data wrangling functionality in python’s Polars package by [@emilyriederer](https://github.com/emilyriederer). 
 
 
 ### Talks and videos
