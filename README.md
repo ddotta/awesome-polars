@@ -102,6 +102,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 ### Cheat Sheets
 
 - [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) - A Polars Cheat Sheet by [@FranzDiebold](https://github.com/FranzDiebold).
+- [Cheatsheet for Pandas to Polars](https://www.rhosignal.com/posts/polars-pandas-cheatsheet/) - A Cheat Sheet that shows how to convert some familar Pandas commands to Polars by [@braaannigan](https://github.com/braaannigan).
 
 ### Tutorials & workshops
 
