@@ -187,7 +187,6 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Great Tables: The Polars DataFrame Styler of Your Dreams](https://posit-dev.github.io/great-tables/blog/polars-styling/) - A post that shows how Great Tables package uses polars expressions to make delightful tables by [@machow](https://github.com/machow).
 - [Polars dataframe’s plugins and extensibility: getting started](https://medium.com/datamindedbe/polars-dataframes-plugins-and-extensibility-getting-started-9371d8b3f093) - A post that illustrates the possibility of extending the core Dataframe API of Polars with a few examples by [@brunocous](https://github.com/brunocous).
 
-
 ### Talks and videos
 
 - [Polars: Blazingly Fast DataFrames in Rust and Python](https://www.youtube.com/watch?v=kVy3-gMdViM) &#9203; `37 min`  - Introduction to Polars by [databricks](https://www.databricks.com/).
