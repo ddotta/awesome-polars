@@ -72,6 +72,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [polars-xdt](https://github.com/pola-rs/polars-xdt) - Polars plugin offering eXtra stuff for DateTimes (originally by [@MarcoGorelli](https://github.com/MarcoGorelli)).
 - [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
 - [Python package polars-ds](https://github.com/abstractqqq/polars_ds_extension) - Python package that contains multiple extension to simplify common numerical/string data analysis procedures by [@abstractqqq](https://github.com/abstractqqq).
+- [Narwhals](https://github.com/MarcoGorelli/narwhals) - Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by [@MarcoGorelli](https://github.com/MarcoGorelli).
 
 ### Rust
 
