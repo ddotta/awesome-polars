@@ -193,6 +193,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [15 Pandas ↔ Polars ↔ SQL ↔ PySpark Translations](https://www.blog.dailydoseofds.com/p/15-pandas-polars-sql-pyspark-translations) - A post that depicts the 15 most common tabular operations in Polars and their corresponding translations in Pandas, SQL and PySpark by [@ChawlaAvi](https://github.com/ChawlaAvi).
 - [LazyFrame: Exploring Laziness in Dataframes from Polars in Python](https://medium.com/@HeCanThink/lazyframe-exploring-laziness-in-dataframes-from-polars-in-python-46da61d48e79) - A blog post that introduces LazyFrames with Polars an Python by [Manoj Das](https://medium.com/@HeCanThink).
 - [Data Statistics in Polars](https://python.plainenglish.io/data-statistics-in-polars-8268be9843c5) - A post that explains how to extract insightful information from your data in Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
+- [Groupby in Polars](https://python.plainenglish.io/groupby-in-polars-986ef08321ce) - A post that explains how to Learn how to do group data using Polars by [Alexandre Petit](https://medium.com/@alexandthedataworld).
 
 ### Talks and videos
 
