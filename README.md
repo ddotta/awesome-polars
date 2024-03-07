@@ -75,6 +75,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Narwhals](https://github.com/MarcoGorelli/narwhals) - Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by [@MarcoGorelli](https://github.com/MarcoGorelli).
 - [polars-upgrade](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
 - [polars-fuzzy-match](https://github.com/bnm3k/polars-fuzzy-match) - Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by [@bnm3k](https://github.com/bnm3k).
+- [Polars for Identifiers and Standard Format Strings](https://github.com/abstractqqq/polars_istr) - Python package forProcessing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
 
 ### Rust
 
