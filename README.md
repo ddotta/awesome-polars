@@ -236,6 +236,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Pandas and Polars with Marco Gorelli](https://thebakery.dev/68/) &#9203; `55 min` - A podcast by The Developers' Bakery that compares the performance of Polars to Pandas by [\@MarcoGorelli](https://github.com/MarcoGorelli).
 - [Library of the week 13 : Polars with Python](https://www.youtube.com/watch?v=kv7rqHgX20w) ⏳ 15 min - A video that presents Polars with Python by [@enarroied](https://github.com/enarroied). Article supplied with the video [in this page](https://python.plainenglish.io/library-of-the-week-13-polars-fd1398a8841b).
 - [Polars and time zones: everything you need to know | PyData Global 2023](https://www.youtube.com/watch?v=DFQFAwt_0VY) ⏳ 29 min - A video that  shows how to use Polars effectively for time series analysis involving different time zones by [@MarcoGorelli](https://github.com/MarcoGorelli).
+- [Polars is the Pandas killer | PyData Tel Aviv 2024](https://www.youtube.com/watch?v=sepiszMSvBs) ⏳ 22 min - A video that  shows how Polars is competing head to head with scale, speed and ease of use for dataframe solution in python by [Igor Mintz](https://www.linkedin.com/in/igormintz/?originalSubdomain=il).
 
 ## Follow : Official
 
