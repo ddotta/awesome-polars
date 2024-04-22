@@ -81,6 +81,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [QuickEcharts](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
 - [Polars OLS](https://github.com/azmyrajab/polars_ols) - Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by [@azmyrajab](https://github.com/azmyrajab).
 - [polars-finance](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
+- [polars-candle](https://github.com/wdoppenberg/polars-candle) - Python package for for running [candle](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
 
 ### Rust
 
