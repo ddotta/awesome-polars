@@ -218,6 +218,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Age of DataFrames II: Polars Edition](https://medium.com/datamindedbe/age-of-dataframes-2-polars-edition-83442a06bced) - A blog post that illustrates the features of Polars through the analysis of a tournament from the video game Age of Empires II by [@woutergins]. Source code available [here](https://github.com/woutergins/age-of-dataframes) 
 - [Polars: A Modern DataFrame Library](https://levelup.gitconnected.com/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
 - [Mastering Polars: High-Efficiency Data Analysis and Manipulation](https://www.geeksforgeeks.org/mastering-polars-high-efficiency-data-analysis-and-manipulation/) - An article that provides a comprehensive introduction of Polars, highlighting its features and showcasing practical examples to get started.
+- [Encrypting data with Polars](https://garagashli.substack.com/p/encrypting-data-with-polars) - A post that illustrates how to use the polars_encryption plugin to encrypt data with Polars by [@zlobendog](https://github.com/zlobendog).
 
 ### Talks and videos
 
