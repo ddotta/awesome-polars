@@ -42,7 +42,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
     - [Tutorials \& workshops](#tutorials--workshops)
     - [Blog posts](#blog-posts)
     - [Talks and videos](#talks-and-videos)
-  - [Follow : Official](#follow--official)
+  - [Follow](#follow)
   - [Contributing](#contributing)
 
 ## Official documentation
@@ -253,7 +253,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [DataFrames on steroids with Polars](https://www.youtube.com/watch?v=U5Gl_X6Z7Lk) ⏳ 42 min - A video that demonstrates Polars for Python and shows how much faster it is compared to pandas while remaining just as convenient by [@prosoitos](https://github.com/prosoitos). Slides are available [here](https://mint.westdri.ca/python/wb_polars_slides#/title-slide).
 - [Pandas, Polars and the DataDrame Consortium](https://www.youtube.com/watch?v=-kz1EAhlflM) ⏳ 25 min - A video that offers a detailed performance comparison between Polars and Pandas. This analysis serves as a foundation for the introduction of the DataFrame Consortium, which aims to standardize data manipulation libraries.
 
-## Follow : Official
+## Follow
 
 - [pola-rs (@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [@DataPolars](https://twitter.com/DataPolars)).
 - [Ritchie Vink (@ritchie46)](https://github.com/ritchie46) - Author of Polars
@@ -264,6 +264,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
 - [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
 - [Etienne Bacher (@etiennebacher)](https://github.com/etiennebacher) - Contributor to R Polars project
+- [PolarsCodeAcademy](https://www.youtube.com/@PolarsCodeAcademy) - Youtube Channel with thematic videos about Polars
 
 ## Contributing
 
