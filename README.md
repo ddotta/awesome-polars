@@ -219,6 +219,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Polars: A Modern DataFrame Library](https://levelup.gitconnected.com/polars-a-modern-dataframe-library-dcce43f43f3b) - An article that introduces to Polars design and its main features by [@gox6](https://github.com/gox6).
 - [Mastering Polars: High-Efficiency Data Analysis and Manipulation](https://www.geeksforgeeks.org/mastering-polars-high-efficiency-data-analysis-and-manipulation/) - An article that provides a comprehensive introduction of Polars, highlighting its features and showcasing practical examples to get started.
 - [Encrypting data with Polars](https://garagashli.substack.com/p/encrypting-data-with-polars) - A post that illustrates how to use the polars_encryption plugin to encrypt data with Polars by [@zlobendog](https://github.com/zlobendog).
+- [Case Study Comparing Pandas and Polars with 1 Million Rows Data](https://towardsdatascience.com/statistically-confirm-your-benchmark-case-study-comparing-pandas-and-polars-with-1-million-rows-0ea04d7b61f2) - An blog post that compares benchmarking scores with the Independent samples t-test and Welch’s t-test using Python.
 
 ### Talks and videos
 
