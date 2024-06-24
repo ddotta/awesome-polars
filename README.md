@@ -220,7 +220,8 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Mastering Polars: High-Efficiency Data Analysis and Manipulation](https://www.geeksforgeeks.org/mastering-polars-high-efficiency-data-analysis-and-manipulation/) - An article that provides a comprehensive introduction of Polars, highlighting its features and showcasing practical examples to get started.
 - [Encrypting data with Polars](https://garagashli.substack.com/p/encrypting-data-with-polars) - A post that illustrates how to use the polars_encryption plugin to encrypt data with Polars by [@zlobendog](https://github.com/zlobendog).
 - [Case Study Comparing Pandas and Polars with 1 Million Rows Data](https://towardsdatascience.com/statistically-confirm-your-benchmark-case-study-comparing-pandas-and-polars-with-1-million-rows-0ea04d7b61f2) - An blog post that compares benchmarking scores with the Independent samples t-test and Welch’s t-test using Python.
-- [How to Move From Pandas to Polars](https://blog.jetbrains.com/pycharm/2024/06/how-to-move-from-pandas-to-polars/#conclusion) - A blog post that explains how to move from Pandas to Polars using Pycharm by [@Cheukting]. 
+- [How to Move From Pandas to Polars](https://blog.jetbrains.com/pycharm/2024/06/how-to-move-from-pandas-to-polars/#conclusion) - A blog post that explains how to move from Pandas to Polars using Pycharm by [@Cheukting].
+- [DuckDB vs Polars — Which One Is Faster?](https://medium.com/@yukithejapanese/duckdb-vs-polars-which-one-is-faster-61e73a7680e0) - An unofficial benchmark on DuckDB and Polars by [Yuki Kakegawa](https://medium.com/@yukithejapanese).
 
 ### Talks and videos
 
