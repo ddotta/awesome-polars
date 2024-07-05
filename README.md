@@ -47,6 +47,10 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 ## Official documentation
 
+OFFICIAL NEWS :  
+- `August 2023` : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!  
+- `July 2024` : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/)   
+
 - [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 - [Documentation for Python API](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
 - [Documentation for Rust API](https://pola-rs.github.io/polars/polars/) - Official API Reference for Rust.
@@ -57,8 +61,6 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Blog posts from Polars](https://www.pola.rs/posts/) - Official blogs posts from Polars.
 - [Keynote on Polars at EuroSciPy 2023](https://www.youtube.com/watch?v=GTVm3QyJ-3I&t=43s) &#9203; `57 min` - Talk by [\@ritchie46](https://github.com/ritchie46) that dives into Polars and sees what makes it so efficient.  It will touch on technologies like Arrow, Rust, parallelism, data structures, query optimization and more.
 - [Talk about Polars at EuroPython Conference 2023](https://www.youtube.com/watch?v=UwRlFtSd_-8) &#9203; `28 min` - Talk by [\@ritchie46](https://github.com/ritchie46) that introduces Polars and some of its design decisions.
-
-> August 2023 : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!
 
 ## Libraries/Packages/Scripts
 
