@@ -29,6 +29,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 # Awesome Polars
 - [Awesome Polars](#awesome-polars)
+  - [Official news :](#official-news-)
   - [Official documentation](#official-documentation)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Python](#python)
@@ -45,11 +46,12 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
   - [Follow](#follow)
   - [Contributing](#contributing)
 
-## Official documentation
+## Official news :  
 
-OFFICIAL NEWS :  
-- `August 2023` : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!  
-- `July 2024` : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/)   
+- **August 2023** : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!  
+- **July 2024** : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/).  
+
+## Official documentation
 
 - [Documentation](https://pola-rs.github.io/polars-book/user-guide/) - Official user guide for Python, Rust and R.
 - [Documentation for Python API](https://pola-rs.github.io/polars/py-polars/html/reference/) - Official API Reference for Python.
