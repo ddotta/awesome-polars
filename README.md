@@ -267,6 +267,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [Python: Polars Data Analysis](https://www.youtube.com/watch?v=xSfeHaE9djY) ⏳ 59 min - A video that illustrates the main features of Polars by [Digital Program Life](https://www.youtube.com/channel/UCkZ8YD_N4uVnG8y8UnXo1Lg).
 - [Integrate Polars DataFrame with Ollama](https://www.youtube.com/watch?v=E5Hz35DAq8w) ⏳ 12 min - A video that demonstrates how to integrate Polars with Ollama local models to do data analysis by [@fahdmirza](https://github.com/fahdmirza).
 - [Polars basics playlist](https://www.youtube.com/watch?v=71u1KaUErVk) - A playlist that introduces the basic features of Polars in an instructive way.
+- [Polars - SQL Interface for Querying DataFrames](https://www.youtube.com/watch?v=-D_tsBY4NrI) ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by [@bugbytes-io](https://github.com/bugbytes-io).
 
 ## Follow
 
