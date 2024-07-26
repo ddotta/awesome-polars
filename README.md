@@ -90,6 +90,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 - [polars_iptools](https://github.com/erichutchins/polars_iptools) - Polars plugin for IP address parsing and enrichment including geolocation by [@erichutchins](https://github.com/erichutchins).
 - [life_polars_plugin](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).
 - [polars-url](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
+- [polars-ml](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 
 ### Rust
 
