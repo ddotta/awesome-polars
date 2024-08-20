@@ -99,6 +99,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Polars OLS](https://github.com/azmyrajab/polars_ols) - Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by [@azmyrajab](https://github.com/azmyrajab).
 - [polars-candle](https://github.com/wdoppenberg/polars-candle) - Python package for for running [candle](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
 - [photoshoot](https://github.com/ngriffiths13/photoshoot) - A pytest plugin library for doing snapshot testing with Polars DataFrames by [@ngriffiths13](https://github.com/ngriffiths13).
+- [polar_patch](https://github.com/Summit-Sailors/polar_patch) - Python package that brings type safety and type checking for custom Polars plugins by [@Summit-Sailors](https://github.com/Summit-Sailors).
 
 ### Rust
 
