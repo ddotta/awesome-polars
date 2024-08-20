@@ -277,6 +277,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Integrate Polars DataFrame with Ollama](https://www.youtube.com/watch?v=E5Hz35DAq8w) ⏳ 12 min - A video that demonstrates how to integrate Polars with Ollama local models to do data analysis by [@fahdmirza](https://github.com/fahdmirza).
 - [Polars basics playlist](https://www.youtube.com/watch?v=71u1KaUErVk) - A playlist that introduces the basic features of Polars in an instructive way.
 - [Polars - SQL Interface for Querying DataFrames](https://www.youtube.com/watch?v=-D_tsBY4NrI) ⏳ 20 min - A video that shows how to use SQL to query the data in Polars DataFrames by [@bugbytes-io](https://github.com/bugbytes-io).
+- [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=OTVDmA6CRlQ) ⏳ 110 min - A long video that explains and illustrates the basic principles of Polars by [@KeithGalli](https://github.com/KeithGalli). Associated github repo is [here](https://github.com/KeithGalli/polars-livestream).
 
 ## Follow
 
