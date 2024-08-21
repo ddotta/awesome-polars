@@ -287,7 +287,6 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Ritchie Vink (@ritchie46)](https://github.com/ritchie46) - Author of Polars
 - [Stijn de Gooijer (@stinodego)](https://github.com/stinodego) - Member of Polars organisation
 - [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation
-- [Søren Havelund Welling (@sorhawell)](https://github.com/sorhawell) - Member of Polars organisation
 - [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
 - [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
 - [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
