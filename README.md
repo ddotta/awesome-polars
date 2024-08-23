@@ -29,7 +29,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 # Awesome Polars
 - [Awesome Polars](#awesome-polars)
-  - [Official news :](#official-news-)
+  - [Official news](#official-news)
   - [Official documentation](#official-documentation)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Polars plugins](#polars-plugins)
@@ -47,7 +47,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
   - [Follow](#follow)
   - [Contributing](#contributing)
 
-## Official news :  
+## Official news  
 
 - **August 2023** : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!  
 - **July 2024** : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/).  
