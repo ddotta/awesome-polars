@@ -115,6 +115,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [tidypolars for R](https://github.com/etiennebacher/tidypolars/) `tidypolars` package to use polars with tidyverse syntax.
 - [polarssql](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 - [r-polars-dashboard](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
+- [neo-r-polars](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
 
 ### Node.js
 
