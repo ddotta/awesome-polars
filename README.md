@@ -69,7 +69,7 @@ To see the latest entries in the list : <a href="https://www.trackawesomelist.co
 
 ### Polars plugins
 
-To learn to write, see [this great tutorial](https://marcogorelli.github.io/polars-plugins-tutorial/) by [@MarcoGorelli](https://github.com/MarcoGorelli) !  
+To learn to write, see [this great tutorial](https://marcogorelli.github.io/polars-plugins-tutorial/) by [@MarcoGorelli](https://github.com/MarcoGorelli)!  
 
 - [polars-xdt](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).  
 - [polars-finance](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
