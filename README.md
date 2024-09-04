@@ -8,7 +8,7 @@
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.  
 
 <a href="https://www.pola.rs/" target="_blank" rel="noopener noreferrer">
-  <img src="media/polars-logo-dark.png" alt-text="Polars's logo."/>
+  <img src="media/logo_awesome_polars.png" alt-text="Polars's logo."/>
 </a>
 
 </div>
