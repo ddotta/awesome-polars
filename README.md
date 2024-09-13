@@ -156,6 +156,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Polars plugins tutorial](https://marcogorelli.github.io/polars-plugins-tutorial/) - How you (yes, you!) can write a Polars Plugin, by [@MarcoGorelli](https://github.com/MarcoGorelli).
 - [Scripts and datasets for the O'Reilly book Python Polars: The Definitive Guide](https://github.com/jeroenjanssens/python-polars-the-definitive-guide) - Useful Python notebooks ordered by book chapter by [@jeroenjanssens](https://github.com/jeroenjanssens).
 - [Python-Polars-Tips-and-Tricks](https://github.com/StuffbyYuki/Python-Polars-Tips-and-Tricks) - Collection of source code demonstrating tips and tricks in Polars by [@StuffbyYuki](https://github.com/StuffbyYuki).
+- [(Pretty) big data wrangling with DuckDB and Polars](https://grantmcdermott.com/duckdb-polars/) - Documentation that introduces the use of DuckDB and Polars with examples in R and Python by [@grantmcdermott](https://github.com/grantmcdermott).
 
 ### Blog posts
 
