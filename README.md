@@ -295,6 +295,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Polars and time series | PyData 2024](https://www.youtube.com/watch?v=qz-zAHBz6Ks) ⏳ 29 min - A video that shows how to use Polars effectively for time series analysis iby [@MarcoGorelli](https://github.com/MarcoGorelli).
 - [How to Learn the Polars DataFrame Library](https://www.youtube.com/watch?v=5V_MvnwTVwc) ⏳ 65 min - A video that enables to learn practical techniques for data manipulation and advanced transformations by [@kimfetti](https://github.com/kimfetti). Associated github repo is [here](https://github.com/kimfetti/Conferences/tree/master/DataUmbrella_2024).
 - [Polars: Past, Present and Future with Ritchie Vink](https://youtu.be/ubqF0yGyphU?si=rf0M6Q4YV4nHJdiE) ⏳ 71 min - A video in which Jon Krohn talks with the creator of Polars, Ritchie Vink ([@ritchie46](https://github.com/ritchie46)), about why Polars is important, how it works, and where it's going by [@jonkrohn](https://github.com/jonkrohn). 
+- [Understanding Polars Expressions when you're used to Pandas](https://youtu.be/BgnPgssga90?si=TM_Dtz6nJS6180SI) ⏳ 36 min - A video that explains how to understand expressions from a Pandas perspective by [@marcogorelli](https://github.com/marcogorelli). 
 
 ## Follow
 
