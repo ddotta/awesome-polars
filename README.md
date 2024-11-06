@@ -253,6 +253,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Polars: The Must-Know Data Frame Library Every Data Scientist Should Know](https://ansababy.medium.com/polars-the-must-know-dataframe-library-every-data-scientist-should-know-209e47acceb8) - A blog post that provides a good first guide to the features of Polars by [@AnsaBaby](https://github.com/AnsaBaby).
 - [Benchmarking energy usage and performance of Polars and pandas](https://pola.rs/posts/benchmark-energy-performance/) - A blog post by [the Polars team](https://pola.rs/) itself benchmarking Polars and Pandas.
 - [Why I’m Switching to Polars](https://arilamstein.com/blog/2024/09/04/why-im-switching-to-polars/) - A blog post that explains the reasons why Ari Lamstein now uses Polars by [@arilamstein](https://github.com/arilamstein).
+- [Polars: A Modern DataFrame Library for High-Performance Data Analysis in Python](https://medium.com/@ardi.arunaditya/polars-a-modern-dataframe-library-for-high-performance-data-analysis-in-python-6e808dd591ee) - An article that presents data manipulation operations focusing on eager execution by [Ardi Arunaditya](https://medium.com/@ardi.arunaditya).
 
 ### Talks and videos
 
