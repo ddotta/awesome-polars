@@ -263,6 +263,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Pandas vs Polars: Performance Benchmarks for Common Data Operations](https://www.statology.org/pandas-vs-polars-performance-benchmarks-for-common-data-operations/) - A blog post that compares performance on common data operations between Polars and Pandas by [Vinod Chugani](https://www.linkedin.com/in/vc1401/?originalSubdomain=th).
 - [The Polars vs pandas Difference Nobody is Talking About](https://labs.quansight.org/blog/dataframe-group-by?utm_campaign=Polars&utm_medium=Social&utm_source=Medium&utm_content=Labs&utm_term=Blog) - A blog post that talks about non-elementary group-by aggregations with Polars by [@marcogorelli](https://github.com/marcogorelli).
 - [Translating Pandas to Polars](https://towardsdev.com/translating-pandas-to-polars-a7446c82bcca) - A blog post that  that proposes 20 code translations from Pandas to Polars by [@Rohit-Salunke](https://github.com/Rohit-Salunke).
+  - [Tutorials about Polars](https://sparkbyexamples.com/category/polars/) - A list of blog posts on Polars topics by [@sparkbyexamples](https://github.com/sparkbyexamples).
 
 ### Talks and videos
 
