@@ -318,7 +318,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 
 ## Follow
 
-- [pola-rs (@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars (Twitter: [@DataPolars](https://twitter.com/DataPolars)).
+- [pola-rs (@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars 
 - [Ritchie Vink (@ritchie46)](https://github.com/ritchie46) - Author of Polars
 - [Stijn de Gooijer (@stinodego)](https://github.com/stinodego) - Member of Polars organisation
 - [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation
