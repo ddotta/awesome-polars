@@ -101,6 +101,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [polars-config-meta](https://github.com/lmmx/polars-config-meta) - Polars plugin for persistent DataFrame-level metadata by [@lmmx](https://github.com/lmmx).
 - [polars-talib](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
 - [polars_list_utils](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
+- [iban_validation_polars](https://github.com/ericqu/iban_validation/tree/main/iban_validation_polars) A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by [@ericqu](https://github.com/ericqu).
 
 ### Python
 
@@ -127,6 +128,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [polars for Rust](https://github.com/pola-rs/polars/tree/master/polars) - [Rust](https://www.rust-lang.org/) `polars` crate to use polars DataFrame with Rust.
 - [Polars CLI](https://github.com/pola-rs/polars-cli) `Polars CLI` is a command line interface for running SQL queries with Polars as backend. 
 - [GeoPolars](https://geopolars.org/) `Geopolars` pre-alpha Rust crate that extends the Polars DataFrame library for use with geospatial data (not in active development - see [top of readme](https://github.com/geopolars/geopolars)).
+- [iban_validation](https://github.com/ericqu/iban_validation) A set of projects to facilitate validation of ibans and getting the bank identifier and branch identifier in Rust, Python and Polars by [@ericqu](https://github.com/ericqu).
 
 ### R
 
