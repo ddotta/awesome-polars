@@ -152,7 +152,8 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 
 ## Tools build with Polars
 
-- [polars-explorer](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).
+- [polars-explorer](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).  
+- [polars-mas](https://github.com/idinsmore1/polars-mas) - A CLI tool and python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
 
 ## Resources
 
