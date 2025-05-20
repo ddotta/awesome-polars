@@ -33,6 +33,15 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
   - [Official documentation](#official-documentation)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Polars plugins](#polars-plugins)
+      - [Geographical / Spatial](#geographical--spatial)
+      - [Validation](#validation)
+      - [String parsing](#string-parsing)
+      - [Text similarity / Fuzzy Matching](#text-similarity--fuzzy-matching)
+      - [Time series / Datetime](#time-series--datetime)
+      - [Machine Learning \& Data Science](#machine-learning--data-science)
+      - [Mathematical \& Statistical Functions](#mathematical--statistical-functions)
+      - [General utilities / Performance](#general-utilities--performance)
+      - [Miscellaneous](#miscellaneous)
     - [Python](#python)
     - [Rust](#rust)
     - [R](#r)
@@ -305,6 +314,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [Build a Decision Tree in Polars from Scratch](https://towardsdatascience.com/build-a-decision-tree-in-polars-from-scratch/) - A post that explains how to build a decision tree with Polars by [@tocab](https://github.com/tocab). Code used is available on Github [here](https://github.com/tocab/efficient-trees).
 - [Pandas vs Polars: is it time to change?](https://medium.com/data-reply-it-datatech/pandas-vs-polars-is-it-time-to-change-6a387a8d12dd) - A post that summarizes the main issues involved in the transition from Pandas to Polars by [Michelangelo Florio](https://medium.com/@mic.florio).
 - [The Complete Guide to Polars for Data Science](https://noroinsight.com/polars-for-data-science-complete-guide/) - A hands-on tutorial that teaches how to load, manipulate, transform and optimize data sets with Polars in Python by [@norochalise](https://github.com/norochalise). Code used is available on Github [here](https://github.com/norochalise/noroinsight-polars-tutorial).
+- [Pandas vs Polars : Comparaison des performances et de la mémoire](https://www.monshotdata.com/p/pandas-vs-polars) - A 2025 benchmark that compares the performance of Polars and Pandas by [@moncoachdata](https://github.com/moncoachdata). Code used is available on Github [here](https://github.com/moncoachdata/MonShotData/blob/main/Pandas/Polars-vs-Pandas.ipynb?utm_source=www.monshotdata.com&utm_medium=referral&utm_campaign=pandas-vs-polars-comparaison-des-performances-et-de-la-memoire).
 
 ### Talks and videos
 
