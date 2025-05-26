@@ -39,6 +39,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Text similarity / Fuzzy Matching](#text-similarity--fuzzy-matching)
       - [Time series / Datetime](#time-series--datetime)
       - [Machine Learning \& Data Science](#machine-learning--data-science)
+      - [AI](#ai)
       - [Mathematical \& Statistical Functions](#mathematical--statistical-functions)
       - [General utilities / Performance](#general-utilities--performance)
       - [Miscellaneous](#miscellaneous)
@@ -112,7 +113,10 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 #### Machine Learning & Data Science
 - [polars-ml](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 - [polars-candle](https://github.com/wdoppenberg/polars-candle) - Polars plugin for running [candle](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
-- [polars-ds)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq).  
+- [polars-ds)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq). 
+
+#### AI
+- [polar_llama](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
 
 #### Mathematical & Statistical Functions
 - [polars_ols](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
