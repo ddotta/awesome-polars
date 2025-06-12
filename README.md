@@ -113,7 +113,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 #### Machine Learning & Data Science
 - [polars-ml](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
 - [polars-candle](https://github.com/wdoppenberg/polars-candle) - Polars plugin for running [candle](https://github.com/huggingface/candle) ML models on Polars DataFrames by [@wdoppenberg](https://github.com/wdoppenberg).
-- [polars-ds)](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq). 
+- [polars-ds](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq). 
 
 #### AI
 - [polar_llama](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
