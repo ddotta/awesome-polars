@@ -40,6 +40,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Time series / Datetime](#time-series--datetime)
       - [Machine Learning \& Data Science](#machine-learning--data-science)
       - [AI](#ai)
+      - [Language](#language)
       - [Mathematical \& Statistical Functions](#mathematical--statistical-functions)
       - [General utilities / Performance](#general-utilities--performance)
       - [Miscellaneous](#miscellaneous)
@@ -117,6 +118,9 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 
 #### AI
 - [polar_llama](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
+
+#### Language
+- [polar-whichlang](https://github.com/rmalouf/polars_whichlang) - Polars plugin for fast language identification by [@rmalouf](https://github.com/rmalouf).
 
 #### Mathematical & Statistical Functions
 - [polars_ols](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
