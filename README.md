@@ -160,6 +160,7 @@ To learn to write, see [this great tutorial](https://marcogorelli.github.io/pola
 - [cerburus](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
 - [polars_access_mdbtools](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
 - [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/polars/) - Python package that provides a clean API for cleaning Polars DataFrame [@pyjanitor-devs](https://github.com/pyjanitor-devs).
+- [turtle-island](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
 
 ### Rust
 
