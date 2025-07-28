@@ -33,6 +33,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
   - [Official documentation](#official-documentation)
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Polars plugins](#polars-plugins)
+      - [Import / Export](#import--export)
       - [Geographical / Spatial](#geographical--spatial)
       - [Validation](#validation)
       - [String parsing](#string-parsing)
@@ -88,6 +89,9 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
 To learn to write, see [this great tutorial](https://marcogorelli.github.io/polars-plugins-tutorial/) by [@MarcoGorelli](https://github.com/MarcoGorelli)!  
 
 You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorelli/cookiecutter-polars-plugins) by [@MarcoGorelli](https://github.com/MarcoGorelli) which provides a template to quickly scaffold a Rust-based plugin for the Polars Python library.
+
+#### Import / Export
+- [polars_io](https://github.com/alipatti/polars_io) - Lazily read Stata, SAS, and fixed-width files in Polars by [@alipatti](https://github.com/alipatti).
 
 #### Geographical / Spatial
 - [polars-h3](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
