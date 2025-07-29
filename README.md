@@ -132,7 +132,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 #### Mathematical & Statistical Functions
 - [polars_ols](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
 - [polars-pairing](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number by [@apcamargo](https://github.com/apcamargo).  
-- [polars_rns](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
+- [polars_rng](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
 
 #### General utilities / Performance
 - [polars-utils](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
