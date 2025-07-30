@@ -46,6 +46,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Market/Trading](#markettrading)
       - [Mathematical \& Statistical Functions](#mathematical--statistical-functions)
       - [General utilities / Performance](#general-utilities--performance)
+      - [Statistics / Analytics](#statistics--analytics)
       - [Visualization](#visualization)
       - [Miscellaneous](#miscellaneous)
     - [Rust](#rust)
@@ -168,6 +169,9 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [turtle-island](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
 - [polars-argpartition](https://github.com/GiovanniGiacometti/polars-argpartition) - Polars plugin that implements the argpartition function by [@GiovanniGiacometti](https://github.com/GiovanniGiacometti).
 - [polars-path](https://github.com/gorkaerana/polars-path) - Polars plugin with filesystem path utilities by [@gorkaerana](https://github.com/gorkaerana).
+
+#### Statistics / Analytics
+- [polars_kde](https://github.com/baggiponte/polars_kde) - Polars plugin for kernel density estimation by [@schemaitat](https://github.com/schemaitat).
 
 #### Visualization
 - [seaborn_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
