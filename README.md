@@ -137,6 +137,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-ts](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
 - [polars-talib](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
 - [polars-xdt](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).  
+- [polars-xdt-docs](https://github.com/MarcoGorelli/polars-xdt-docs) - Polars plugin for business day arithmetic by [@MarcoGorelli](https://github.com/MarcoGorelli).
 - [functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
 
 #### Machine Learning & Data Science
