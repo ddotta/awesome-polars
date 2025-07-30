@@ -43,6 +43,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Machine Learning \& Data Science](#machine-learning--data-science)
       - [AI](#ai)
       - [Language](#language)
+      - [Market/Trading](#markettrading)
       - [Mathematical \& Statistical Functions](#mathematical--statistical-functions)
       - [General utilities / Performance](#general-utilities--performance)
       - [Visualization](#visualization)
@@ -140,6 +141,9 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 
 #### Language
 - [polar-whichlang](https://github.com/rmalouf/polars_whichlang) - Polars plugin for fast language identification by [@rmalouf](https://github.com/rmalouf).
+
+#### Market/Trading
+- [polars-trading](https://github.com/ngriffiths13/polars-trading) - A collection of helpful polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 
 #### Mathematical & Statistical Functions
 - [polars_ols](https://github.com/azmyrajab/polars_ols) - Polars plugin that enables fast linear model Polar expressions by [@azmyrajab](https://github.com/azmyrajab).
