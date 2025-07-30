@@ -34,6 +34,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
   - [Libraries/Packages/Scripts](#librariespackagesscripts)
     - [Polars plugins](#polars-plugins)
       - [Import / Export](#import--export)
+      - [Data Manipulation](#data-manipulation)
       - [Geographical / Spatial](#geographical--spatial)
       - [Validation](#validation)
       - [String parsing](#string-parsing)
@@ -44,8 +45,8 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Language](#language)
       - [Mathematical \& Statistical Functions](#mathematical--statistical-functions)
       - [General utilities / Performance](#general-utilities--performance)
+      - [Visualization](#visualization)
       - [Miscellaneous](#miscellaneous)
-    - [Python](#python)
     - [Rust](#rust)
     - [R](#r)
     - [Go](#go)
@@ -93,7 +94,13 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 #### Import / Export
 - [polars_io](https://github.com/alipatti/polars_io) - Lazily read Stata, SAS, and fixed-width files in Polars by [@alipatti](https://github.com/alipatti).
 - [polars_readstat](https://github.com/jrothbaum/polars_readstat) - Polars IO plugin to read SAS, Stata and SPSS file by [@jrothbaum](https://github.com/jrothbaum).
+- [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
+- [polars_access_mdbtools](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
 
+#### Data Manipulation
+- [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
+- [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
+  
 #### Geographical / Spatial
 - [polars-h3](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
 - [polars-reverse-geocode](https://github.com/MarcoGorelli/polars-reverse-geocode) - This plugin is an offline reverse geocoder for finding the closest city to a given (latitude, longitude) pair by [@MarcoGorelli](https://github.com/MarcoGorelli).
@@ -103,6 +110,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-validator](https://github.com/baggiponte/polars-validator) - Polars plugin that makes Polars DataFrames generics by [@baggiponte](https://github.com/baggiponte).
 - [iban_validation_polars](https://github.com/ericqu/iban_validation/tree/main/iban_validation_polars) - A package to facilitate validation of IBANs and getting bank identifier and branch identifier as a Polars plugin by [@ericqu](https://github.com/ericqu).
 - [dataframely](https://github.com/Quantco/dataframely) - Polars plugin that provides schema and other rule validation for Polars DataFrames by [@Quantco](https://github.com/Quantco).
+- [polar_patch](https://github.com/Summit-Sailors/polar_patch) - Python package that brings type safety and type checking for custom Polars plugins by [@Summit-Sailors](https://github.com/Summit-Sailors).
 
 #### String parsing
 - [polars-url](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
@@ -113,11 +121,12 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-fuzzy-match](https://github.com/bnm3k/polars-fuzzy-match) - Python package for fuzzy matching with Polars, i.e. matching text elements that are similar but not exactly identical by [@bnm3k](https://github.com/bnm3k).
 - [polars-strsim](https://github.com/foxcroftjn/polars-strsim) - Polars plugin that computes string similarity measures directly on a Polars dataframe by [@foxcroftjn](https://github.com/foxcroftjn).
 - [polars_sim](https://github.com/schemaitat/polars_sim) - Polars plugin that implements fast approximate joins on string columns for polars dataframes by [@schemaitat](https://github.com/schemaitat).
-
+  
 #### Time series / Datetime
 - [polars-ts](https://github.com/drumtorben/polars-ts/tree/main) - Polars Time Series Extension that offers a wide range of metrics, feature extractors, and various tools for time series forecasting by [@drumtorben](https://github.com/drumtorben).
 - [polars-talib](https://github.com/Yvictor/polars_ta_extension) - Polars extension for Ta-Lib - support Ta-Lib functions in Polars expressions by [@Yvictor](https://github.com/Yvictor).
 - [polars-xdt](https://github.com/pola-rs/polars-xdt) - Polars plugin with extra-datetime-related functionalities by [@MarcoGorelli](https://github.com/MarcoGorelli).  
+- [functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
 
 #### Machine Learning & Data Science
 - [polars-ml](https://github.com/barak1412/polars_ml) - Polars plugin for machine learning by [@barak1412](https://github.com/barak1412).
@@ -136,6 +145,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars_rng](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
 
 #### General utilities / Performance
+- [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
 - [polars-utils](https://github.com/junghoon-son/polars-utils) - Collection of utilities for data exploration and analysis with Polars DataFrames by [@junghoon-son](https://github.com/junghoon-son).
 - [polars_list_utils](https://github.com/dashdeckers/polars_list_utils) - Polars extension that provides a set of utilities for working with List-type columns in Polars DataFrames by [@dashdeckers](https://github.com/dashdeckers).
 - [harley](https://github.com/TomBurdge/harley) - Polars helper methods to enhance developer productivity by [@TomBurdge](https://github.com/TomBurdge).
@@ -143,33 +153,25 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars_streaming_csv_decompression](https://github.com/ghuls/polars_streaming_csv_decompression/) Polars IO plugin for reading compressed CSV/TSV files in a streaming fashion by [@ghuls](https://github.com/ghuls).
 - [life_polars_plugin](https://github.com/condekind/life_polars_plugin) - Polars plugin to showcase some features of the plugin system by [@condekind](https://github.com/condekind).  
 - [polars-avro](https://github.com/hafaio/polars-avro) - Polars plugin for reading and writing avro files by [@hafaio](https://github.com/hafaio).
+- [Narwhals](https://github.com/narwhals-dev/narwhals) - Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by [@narwhals-dev](https://github.com/narwhals-dev).
+- [polars-upgrade](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
+- [turtle-island](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
+
+#### Visualization
+- [seaborn_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
+- [QuickEcharts](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
 
 #### Miscellaneous
 - [polars-finance](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 - [polars_encryption](https://github.com/zlobendog/polars_encryption) - Polars plugin that extends Polars with encryption algorithm AES-GSM-SIV by [@zlobendog](https://github.com/zlobendog).
 - [polars-bio](https://github.com/biodatageeks/polars-bio) - Polars plugin for large-scale genomic analyses which is easy to use and considerable faster and more scalabe than existing alternatives by [@biodatageeks](https://github.com/biodatageeks).
-
-### Python
-
-- [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
-- [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
-- [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
-- [seaborn_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
-- [functime](https://docs.functime.ai/) - Machine learning Python package built on Polars for time-series predictions by [@neocortexdb](https://github.com/neocortexdb). According to the developpers, it's the world's fastest and most feature-full machine learning forecasting library !
-- [Ibis Python package for Polars](https://ibis-project.org/backends/polars) - [Ibis](https://github.com/ibis-project/ibis) is a Python library that provides a lightweight, universal interface for data wrangling. It can be used with Polars.
-- [Narwhals](https://github.com/narwhals-dev/narwhals) - Python files that provides an extremely lightweight compatibility layer between Polars, Pandas, cuDF, and Modin by [@narwhals-dev](https://github.com/narwhals-dev).
-- [polars-upgrade](https://github.com/MarcoGorelli/polars-upgrade) - Python package that automatically upgrades your Polars code so it's compatible with future versions by [@MarcoGorelli](https://github.com/MarcoGorelli).
 - [polars_istr](https://github.com/abstractqqq/polars_istr) - Python package for Processing IBAN, ISINs, URLs and other standard format data in Polars by [@abstractqqq](https://github.com/abstractqqq).
 - [polars_hash](https://github.com/ion-elgreco/polars-hash) - Python package that provides stable hashing functionality across different Polars versions by [@ion-elgreco](https://github.com/ion-elgreco).
 - [polars_ta](https://github.com/wukan1986/polars_ta) - Python package that provides technical indicator operators rewritten in Polars by [@wukan1986](https://github.com/wukan1986).
-- [QuickEcharts](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
 - [Polars OLS](https://github.com/azmyrajab/polars_ols) - Python package that provides efficient rust implementations of common linear regression variants and exposes them as simple Polars expressions by [@azmyrajab](https://github.com/azmyrajab).
 - [photoshoot](https://github.com/ngriffiths13/photoshoot) - A pytest plugin library for doing snapshot testing with Polars DataFrames by [@ngriffiths13](https://github.com/ngriffiths13).
-- [polar_patch](https://github.com/Summit-Sailors/polar_patch) - Python package that brings type safety and type checking for custom Polars plugins by [@Summit-Sailors](https://github.com/Summit-Sailors).
 - [cerburus](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
-- [polars_access_mdbtools](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
 - [pyjanitor](https://pyjanitor-devs.github.io/pyjanitor/api/polars/) - Python package that provides a clean API for cleaning Polars DataFrame [@pyjanitor-devs](https://github.com/pyjanitor-devs).
-- [turtle-island](https://github.com/jrycw/turtle-island) - A lightweight utility library for writing Polars Expressions by [@jrycw](https://github.com/jrycw).
 - [catfact](https://github.com/machow/catfact) - Python package for working with categorical data in Polars DataFrames by [@machow](https://github.com/machow).
 
 ### Rust
