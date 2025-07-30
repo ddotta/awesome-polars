@@ -97,6 +97,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars_readstat](https://github.com/jrothbaum/polars_readstat) - Polars IO plugin to read SAS, Stata and SPSS file by [@jrothbaum](https://github.com/jrothbaum).
 - [Working with Polars and XlsxWriter](https://xlsxwriter.readthedocs.io/working_with_polars.html) - Guide to using the Python [XlsxWriter](https://xlsxwriter.readthedocs.io/index.html) library with Polars to create Excel reports.
 - [polars_access_mdbtools](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
+- [polars-root](https://github.com/DanielMaysWilliams/polars-root) - Polars plugin for reading ROOT files by [@DanielMaysWilliams](https://github.com/DanielMaysWilliams).
 
 #### Data Manipulation
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
