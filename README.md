@@ -184,6 +184,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [cerburus](https://github.com/rhshadrach/cerbursus) - Python package that prints Polars DataFrames with hierarchical headers by [@rhshadrach](https://github.com/rhshadrach).
 - [polars-graphframes](https://github.com/t-ded/polars-graphframes) - Polars plugin for interconnection of graphs and networks with Frames by [@t-ded](https://github.com/t-ded).
 - [polars-phonetics](https://github.com/LeCodeMinister/polars-phonetics) - Polars plugin for phonetic algorithms by [@LeCodeMinister](https://github.com/LeCodeMinister).
+- [polars-holidays](https://github.com/mrjsj/polars-holidays) - Polars plugin for determining if a date is a holiday  by [@mrjsj](https://github.com/mrjsj).
 
 ### Rust
 
