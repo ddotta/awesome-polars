@@ -154,6 +154,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 #### Finance
 - [polars-trading](https://github.com/ngriffiths13/polars-trading) - A collection of helpful polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
 - [polars_plugin_option_pricing](https://github.com/oscar6echo/polars-plugin-option-pricing) - Polars plugin exposing rust crate option-pricing by [@oscar6echo](https://github.com/oscar6echo).
+- [polars-order-book](https://github.com/ChristopherRussell/polars-order-book) - Polars plugin  for enriching orderbook data with best bid and offer information by [@ChristopherRussell](https://github.com/ChristopherRussell).
 
 #### Networking
 [httpolars](https://github.com/lmmx/httpolars) - Polars plugin for HTTP operations on columns by [@lmmx](https://github.com/lmmx).
