@@ -107,6 +107,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [catfact](https://github.com/machow/catfact) - Python package for working with categorical data in Polars DataFrames by [@machow](https://github.com/machow).
 - [polars-permute-plugin](https://github.com/lmmx/polars-permute-plugin) - Polars plugin for easily reordering DataFrame columns by [@lmmx](https://github.com/lmmx).
 - [polars-schema-index](https://github.com/lmmx/polars-schema-index) - Polars plugin for flattening nested data by [@lmmx](https://github.com/lmmx).
+- [polars-expr-hopper](https://github.com/lmmx/polars-expr-hopper) - Polars plugin providing a hopper of expressions for automatic, schema-aware application by [@lmmx](https://github.com/lmmx).
   
 #### Geographical / Spatial
 - [polars-h3](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
