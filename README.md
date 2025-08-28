@@ -431,7 +431,6 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [pola-rs (@pola-rs)](https://github.com/pola-rs) - Github organisation for Polars 
 - [Ritchie Vink (@ritchie46)](https://github.com/ritchie46) - Author of Polars
 - [Stijn de Gooijer (@stinodego)](https://github.com/stinodego) - Member of Polars organisation
-- [Danny van Kooten (@dannyvankooten)](https://github.com/dannyvankooten) - Member of Polars organisation
 - [Alexander Beedie (@alexander-beedie)](https://github.com/alexander-beedie) - Contributor to Polars projects
 - [Marco Edward Gorelli (@MarcoGorelli)](https://github.com/MarcoGorelli) - Contributor to Polars projects
 - [Eitsupi (@eitsupi)](https://github.com/eitsupi) - Contributor to R Polars project
