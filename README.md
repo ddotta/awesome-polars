@@ -67,6 +67,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
 
 ## Official news  
 
+- **September 2025** : Polars launches [Polars Cloud and a Distributed Engine in Open Beta](https://pola.rs/posts/polars-cloud-launch/).  
 - **August 2023** : Polars announces that it [has raised a a $4M seed round](https://www.pola.rs/posts/company-announcement/)!  
 - **July 2024** : Python Polars 1.0 release ! See this [blog post special announcement](https://pola.rs/posts/announcing-polars-1/).  
 - **September 2024** : Polars has a [new lightweight plotting backend](https://pola.rs/posts/lightweight_plotting/).  
