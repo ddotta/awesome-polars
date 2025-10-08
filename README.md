@@ -192,6 +192,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 #### Visualization
 - [seaborn_polars](https://github.com/pavelcherepan/seaborn_polars) - Python package to plot Polars DataFrames and LazyFrames with [seaborn](https://seaborn.pydata.org/) by [@pavelcherepan](https://github.com/pavelcherepan).
 - [QuickEcharts](https://github.com/AdrianAntico/QuickEcharts) - Python package for fast and easy echarts with Polars backend by [@AdrianAntico](https://github.com/AdrianAntico).
+- [Buckaroo](https://github.com/paddymul/buckaroo) - Dataframe viewer for notebook environment adds summary stats, histograms, and search to a fast scrollable table so you can easily see your data by [@paddymul](https://github.com/paddymul).
 
 #### Miscellaneous
 - [polars-finance](https://github.com/ngriffiths13/polars-finance) - A collection of Python Polars plugins and functions for market data processing by [@ngriffiths13](https://github.com/ngriffiths13).
