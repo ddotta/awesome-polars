@@ -384,7 +384,8 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [Data Validation Libraries for Polars (2025 Edition)](https://posit-dev.github.io/pointblank/blog/validation-libs-2025/) - A survey of five Python data validation libraries compatible with Polars, highlighting their strengths and trade-offs for robust data pipeline validation in 2025 by [@rich-iannone](https://github.com/rich-iannone).  
 - [Reshape Data in Polars Efficiently from Wide to Long Form](https://samukweku.github.io/data-wrangling-blog/notebooks/Reshape-Data-in-Polars-Wide-to_Long-Part-I.html) - A blog post list that details efficient transformation for Polars DataFrames from wide to long form by [@samukweku](https://github.com/samukweku).  
 - [Polars Boosted My Algorithm's Speed by 25x](https://john.soban.ski/polars.html) - A blog post that explains how using Polars increases code execution speed by 25 times compared to Pandas by [@hatdropper1977](https://github.com/hatdropper1977).  
-- [DuckDB vs Polars. Wait. DuckDB and Polars](https://www.confessionsofadataguy.com/duckdb-vs-polars-wait-duckdb-and-polars/) - A blog post  that helps you choose between Polars and DuckDB based on use cases by [@danielbeach](https://github.com/danielbeach).
+- [DuckDB vs Polars. Wait. DuckDB and Polars](https://www.confessionsofadataguy.com/duckdb-vs-polars-wait-duckdb-and-polars/) - A blog post  that helps you choose between Polars and DuckDB based on use cases by [@danielbeach](https://github.com/danielbeach).  
+- [Pandas vs Polars in 2025 — Should You Finally Make the Switch?](https://python.plainenglish.io/pandas-vs-polars-in-2025-should-you-finally-make-the-switch-90fb2756ffe1) - An article that compares performance and features between Polars and Pandas in 2025 by [@Gecofer](https://github.com/Gecofer).
 
 ### Talks and videos
 
