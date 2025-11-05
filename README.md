@@ -21,7 +21,7 @@ Contributions of any kind welcome!
 Just follow the [guidelines](https://github.com/ddotta/awesome-polars/blob/main/.github/CONTRIBUTING.md) by either:  
   
 - Filling a [suggestion issue](https://github.com/ddotta/awesome-polars/issues/new?assignees=ddotta&labels=&template=suggestion.yml).  
-- Opening a [pull request](https://github.com/ddotta/awesome-polars/compare).  
+- Opening a [pull request](https://github.com/ddotta/awesome-polars/pulls).  
 
 To see the latest entries in the list, <a href="https://www.trackawesomelist.com/ddotta/awesome-polars/" target="_blank" rel="noopener noreferrer"> view the changelog on trackawesomelist.com.
 </a>
