@@ -278,6 +278,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [Introduction course that introduces the concept of DataFrame](https://tlouf.github.io/Py4DataSci-course/dataframes/1-basics-sol.html#) with Polars and Python. It also proposes some corrected exercices by [@TLouf](https://github.com/TLouf).
 - [Working With Python Polars](https://realpython.com/courses/working-with-python-polars/) - 7-lesson online video course that covers various topics related todata manipulation with Polars by [@cltrudeau](https://github.com/cltrudeau).
 - [#100DaysOfPolars articles](https://www.conterval.com/blog/#category=100DaysOfPolars) - List of articles published by [@jorammutenge](https://github.com/jorammutenge) on linkedin #100DaysOfPolars.
+- [Python Polars Tutorial: A Complete Guide for Beginners](https://www.datacamp.com/tutorial/python-polars-tutorial-complete-guide-for-beginners) - A beginner tutorial to learn how to use Polars in Python by [@datacamp](https://github.com/datacamp).
 
 ### Blog posts
 
