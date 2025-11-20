@@ -59,6 +59,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
   - [Tools build with Polars](#tools-build-with-polars)
   - [Resources](#resources)
     - [Cheat Sheets](#cheat-sheets)
+    - [Books](#books)
     - [Tutorials \& workshops](#tutorials--workshops)
     - [Blog posts](#blog-posts)
     - [Talks and videos](#talks-and-videos)
@@ -254,6 +255,12 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 
 - [Polars Cheat Sheet](https://franzdiebold.github.io/polars-cheat-sheet/Polars_cheat_sheet.pdf) - A Polars Cheat Sheet by [@FranzDiebold](https://github.com/FranzDiebold).
 - [Cheatsheet for Pandas to Polars](https://www.rhosignal.com/posts/polars-pandas-cheatsheet/) - A Cheat Sheet that shows how to convert some familiar Pandas commands to Polars by [@braaannigan](https://github.com/braaannigan).
+
+### Books
+
+- [Python & Polars: The Definitive Guide](https://www.amazon.com/Python-Polars-Definitive-Transforming-Visualizing/dp/1098156080) - Book on using Python Polars for transforming, summarizing, and visualizing data.
+- [Polars Cookbook](https://www.amazon.com/Polars-Cookbook-practical-transform-manipulate-ebook/dp/B0CLRS4B8T) - Practical recipes for transforming and manipulating data with Polars.
+- [Effective Polars: Optimized Data Manipulation](https://www.amazon.com/Effective-Polars-Optimized-Data-Manipulation/dp/B0D911QH19) - Book focused on efficient, idiomatic data manipulation with Polars.
 
 ### Tutorials & workshops
 
