@@ -56,7 +56,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
     - [Node.js](#nodejs)
     - [Scala/Java](#scalajava)
     - [Ruby](#ruby)
-  - [Tools build with Polars](#tools-build-with-polars)
+  - [Tools Built with Polars](#tools-built-with-polars)
   - [Resources](#resources)
     - [Cheat Sheets](#cheat-sheets)
     - [Books](#books)
@@ -246,10 +246,11 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 
 - [polars for Ruby](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
 
-## Tools build with Polars
+## Tools Built with Polars
 
 - [polars-explorer](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).  
-- [polars-mas](https://github.com/idinsmore1/polars-mas) - A CLI tool and python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
+- [polars-mas](https://github.com/idinsmore1/polars-mas) - A CLI tool and Python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
+- [octopolars](https://github.com/lmmx/octopolars) - Pull, filter, and walk a GitHub user's repositories with Polars by [@lmmx](https://github.com/lmmx).
 
 ## Resources
 
