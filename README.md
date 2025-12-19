@@ -104,7 +104,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars_access_mdbtools](https://github.com/DeflateAwning/polars_access_mdbtools) - Python package for reading tables from an Access database into Polars dataframes, using mdbtools by [@DeflateAwning](https://github.com/DeflateAwning).
 - [polars-root](https://github.com/DanielMaysWilliams/polars-root) - Polars plugin for reading CERN's ROOT file format by [@DanielMaysWilliams](https://github.com/DanielMaysWilliams).
 - [polars-fastx](https://github.com/apcamargo/polars-fastx) - Polars plugin for parsing FASTA and FASTQ files into DataFrames by [@apcamargo](https://github.com/apcamargo).
-- [excelsior](https://github.com/krakotay/excelsior) - use [.with_polars](https://github.com/krakotay/excelsior/blob/master/python-bindings/speed_tests/excelsior_speed_polars.py) and modify big Excel files [200+ times faster](https://github.com/krakotay/excelsior/blob/master/python-bindings/speed_tests/speed-test-polars-openpyxl-excelsior-0.11.3.md) and without [strange errors](https://github.com/krakotay/excelsior/blob/master/python-bindings/speed_tests/about-speed-test.md) after.
+- [excelsior](https://github.com/krakotay/excelsior) - High-performance library for modifying Excel files with Polars.
 
 #### Data Manipulation
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
