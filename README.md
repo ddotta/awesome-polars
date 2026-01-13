@@ -255,6 +255,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-explorer](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).  
 - [polars-mas](https://github.com/idinsmore1/polars-mas) - A CLI tool and Python library meant to perform large scale multiple association tests, primarily seen in academic research by [@idinsmore1](https://github.com/idinsmore1).
 - [octopolars](https://github.com/lmmx/octopolars) - Pull, filter, and walk a GitHub user's repositories with Polars by [@lmmx](https://github.com/lmmx).
+- [table-diff](https://gitlab.com/parker-research/table-diff) - A tool to generate HTML/Markdown reports highlighting the differences between similar tables by [@parker-research](https://github.com/parker-research).
 
 ## Resources
 
