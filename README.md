@@ -405,6 +405,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [DuckDB vs Polars. Wait. DuckDB and Polars](https://www.confessionsofadataguy.com/duckdb-vs-polars-wait-duckdb-and-polars/) - A blog post  that helps you choose between Polars and DuckDB based on use cases by [@danielbeach](https://github.com/danielbeach).  
 - [Pandas vs Polars in 2025 — Should You Finally Make the Switch?](https://python.plainenglish.io/pandas-vs-polars-in-2025-should-you-finally-make-the-switch-90fb2756ffe1) - An article that compares performance and features between Polars and Pandas in 2025 by [@Gecofer](https://github.com/Gecofer).
 - [How to Use the Polars Library in Python for Data Analysis](https://www.freecodecamp.org/news/how-to-use-the-polars-library-in-python-for-data-analysis/) - An end 2025 beginner-friendly introduction to the Polars library in Python by [Sara Jadhav](https://www.freecodecamp.org/news/author/Eccentric-/).
+- [Polars vs pandas: Choosing the Right Python DataFrame Library for Your Data Workflow](https://www.databricks.com/glossary/polaris-vs-pandas) -A Databricks article comparing Pandas and Polars across performance, syntax, features, and use cases for Python data analysis by [@databricks](https://github.com/databricks).
 
 ### Talks and videos
 
