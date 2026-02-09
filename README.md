@@ -128,6 +128,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [dataframely](https://github.com/Quantco/dataframely) - Polars plugin that provides schema and other rule validation for Polars DataFrames by [@Quantco](https://github.com/Quantco).
 - [daffy](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 - [truthound](https://github.com/seadonggyun4/truthound) - Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by [@seadonggyun4](https://github.com/seadonggyun4).
+- [wimsey](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
 
 #### String parsing
 - [polars-url](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
@@ -153,6 +154,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-ds](https://github.com/abstractqqq/polars_ds_extension) - Polars extension for general data science use cases by [@abstractqqq](https://github.com/abstractqqq). 
 - [polars-fastembed](https://github.com/lmmx/polars-fastembed) - Polars plugin for embedding DataFrames by [@lmmx](https://github.com/lmmx).
 - [retrofit](https://github.com/AdrianAntico/RetroFit) - Machine learning framework built with Polars by [@AdrianAntico](https://github.com/AdrianAntico).
+- [tubular](https://github.com/azukds/tubular) - Scikit-learn pipeline compatible pre-processing steps by [@azukds](https://github.com/azukds).
 
 
 #### AI
@@ -470,3 +472,4 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [Damien Dotta (@ddotta)](https://github.com/ddotta ) - Maintainer of Awesome Polars list
   
 Thanks goes to these [contributors](https://github.com/ddotta/awesome-polars/graphs/contributors)!
+
