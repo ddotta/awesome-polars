@@ -172,7 +172,9 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-order-book](https://github.com/ChristopherRussell/polars-order-book) - Polars plugin  for enriching orderbook data with best bid and offer information by [@ChristopherRussell](https://github.com/ChristopherRussell).
 - [polars-fin](https://github.com/LVG77/polars-fin) - Polars plugin to calculate financial metrics by [@LVG77](https://github.com/LVG77).  
 - [polars-bloomberg](https://github.com/MarekOzana/polars-bloomberg) - Polars plugin that extracts Bloomberg’s financial data directly into polars.DataFrame by [@MarekOzana](https://github.com/MarekOzana).
+- [jquantstats](https://github.com/tschm/jquantstats) - Polars/Narwhals-centric tool for the analysis of financial time series data by [@tschm](https://github/tschm).
 
+  
 #### Networking
 [httpolars](https://github.com/lmmx/httpolars) - Polars plugin for HTTP operations on columns by [@lmmx](https://github.com/lmmx).
 
