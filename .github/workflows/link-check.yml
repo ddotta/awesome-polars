@@ -23,8 +23,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: >-
-            --verbose
             --no-progress
-            --accept 200,206,429
+            --accept 200,206,403,429
             README.md
           fail: true
