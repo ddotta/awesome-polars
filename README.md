@@ -250,6 +250,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 ### Node.js
 
 - [nodejs-polars for Node.js](https://github.com/pola-rs/nodejs-polars) - [Node.js](https://nodejs.org/en/) `nodejs-polars` package to use polars DataFrame from Node.js.
+- [ReleaseRun](https://releaserun.com/tools/package-json-health/) - Browser-based package.json health checker. Scans npm dependencies for EOL versions, known CVEs, and abandoned packages.
 
 ### Scala/Java
 
