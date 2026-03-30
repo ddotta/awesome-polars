@@ -230,6 +230,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-cache](https://github.com/alipatti/polars_cache) - Polars plugin to automatically cache the result of expensive queries to disc by [@alipatti](https://github.com/alipatti).
 - [pl_series_hash](https://github.com/paddymul/pl_series_hash) - Fast series hashing for polars, useful for caching by [@paddymul](https://github.com/paddymul).
 - [raffalib-python](https://github.com/raffaem/raffalib-python) - [STATA](https://www.stata.com/)-like logging capabilities by [@raffaem](https://github.com/raffaem).
+- [immunum-polars](https://github.com/ENPICOM/immunum) - high-performance plugin for antibody segmentation and numbering, with up to 1,000,000 antibodies per second on 48-core CPU machine.
 
 ### Rust
 
