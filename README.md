@@ -117,6 +117,8 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-schema-index](https://github.com/lmmx/polars-schema-index) - Polars plugin for flattening nested data by [@lmmx](https://github.com/lmmx).
 - [polars-expr-hopper](https://github.com/lmmx/polars-expr-hopper) - Polars plugin providing a hopper of expressions for automatic, schema-aware application by [@lmmx](https://github.com/lmmx).
 - [diffly](https://github.com/Quantco/diffly) - Python utility for programatically identifying differences between Polars DataFrames including schema differences, row-level mismatches, and column value changes by [@Quantco](https://github.com/Quantco).
+- [pl-compare](https://codeberg.org/concur1/pl-compare) - Compare Dataframes to find difference in the schemas, rows and column values by [@concur1](https://codeberg.org/concur1).
+
 
 #### Geographical / Spatial
 - [polars-h3](https://github.com/Filimoa/polars-h3) - Efficient hexagonal indexing for large-scale geospatial analysis by [@Filimoa](https://github.com/Filimoa).
