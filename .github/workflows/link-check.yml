@@ -7,7 +7,7 @@ on:
   pull_request:
     paths: [README.md]
   schedule:
-    - cron: "0 8 * * 1"   # every Monday 08:00 UTC
+    - cron: "0 8 * * 1"
   workflow_dispatch:
 
 permissions:
@@ -24,7 +24,7 @@ jobs:
         with:
           args: >-
             --no-progress
-            --exclude "itnext.io|gitconnected.com|pythonspeed.com"
             --accept 200,206,403,429
+            --exclude "itnext.io|gitconnected.com|pythonspeed.com"
             README.md
           fail: true
