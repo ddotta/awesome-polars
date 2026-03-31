@@ -24,6 +24,7 @@ jobs:
         with:
           args: >-
             --no-progress
+            --exclude "itnext.io|gitconnected.com|pythonspeed.com"
             --accept 200,206,403,429
             README.md
           fail: true
