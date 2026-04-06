@@ -65,6 +65,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
     - [Talks and videos](#talks-and-videos)
   - [Follow](#follow)
   - [Contributing](#contributing)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Polars DataFrame workflow orchestration, automated data processing pipeline management, and multi-agent coordination. MIT licensed.
 
 ## Official news  
 
