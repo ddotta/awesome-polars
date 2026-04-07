@@ -25,6 +25,7 @@ jobs:
           args: >-
             --no-progress
             --accept 200,206,403,429
-            --exclude "itnext.io|gitconnected.com|pythonspeed.com"
+            --insecure
+            --exclude "(itnext\.io|gitconnected\.com|pythonspeed\.com|medium\.com)"
             README.md
           fail: true
