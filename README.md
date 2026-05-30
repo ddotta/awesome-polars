@@ -265,6 +265,10 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 
 - [polars for Ruby](https://github.com/ankane/polars-ruby) - [Ruby](https://www.ruby-lang.org/en/) `polars-df` gems to use Polars with Ruby.
 
+### .NET
+
+- [Polars.NET](https://github.com/ErrorLSC/Polars.NET) - [C#](https://learn.microsoft.com/en-us/dotnet/csharp/) - [F#](https://learn.microsoft.com/en-us/dotnet/fsharp/) `Polars.NET` is a library to bring polars to .NET ecosystem, with idiomatic C#(Polars.NET) and F#(Polars.FSharp) API nuget packages provided.
+
 ## Tools Built with Polars
 
 - [polars-explorer](https://github.com/brutusyhy/polars-explorer) - A tool that aims to provide a lightweight GUI to data exploration/manipulation tasks using Rust Polars by [@brutusyhy](https://github.com/brutusyhy).  
