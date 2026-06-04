@@ -136,7 +136,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [wimsey](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
 
 #### Security / Privacy
-- [maskops](https://github.com/fcarvajalbrown/maskops) - High-speed PII masking and detection as a native Polars expression plugin, powered by Rust. Supports asterisk masking, HMAC deterministic pseudonymization, and FF3-1 format-preserving encryption. GDPR Art. 4(5) compliant by [@fcarvajalbrown](https://github.com/fcarvajalbrown).
+- [maskops](https://github.com/fcarvajalbrown/maskops) - Native Polars expression plugin for high-speed PII masking and detection, powered by Rust. Supports asterisk masking, HMAC-SHA256 deterministic pseudonymization, and FF3-1 format-preserving encryption. GDPR Art. 4(5)-compliant by [@fcarvajalbrown](https://github.com/fcarvajalbrown).
 
 #### String parsing
 - [polars-url](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
