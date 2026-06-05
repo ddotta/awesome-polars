@@ -37,6 +37,7 @@ To see the latest entries in the list, <a href="https://www.trackawesomelist.com
       - [Data Manipulation](#data-manipulation)
       - [Geographical / Spatial](#geographical--spatial)
       - [Validation](#validation)
+      - [Security / Privacy](#security--privacy)
       - [String parsing](#string-parsing)
       - [Text similarity / Fuzzy Matching](#text-similarity--fuzzy-matching)
       - [Time series / Datetime](#time-series--datetime)
@@ -133,6 +134,9 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [daffy](https://github.com/vertti/daffy/) - Decorator-first DataFrame contracts/validation (columns/dtypes/constraints) at function boundaries. Supports Polars/Pandas/PyArrow/Modin by [@vertti](https://github.com/vertti).
 - [truthound](https://github.com/seadonggyun4/truthound) - Enterprise data quality framework with 289 validators, auto-profiling, and zero-configuration schema inference by [@seadonggyun4](https://github.com/seadonggyun4).
 - [wimsey](https://github.com/benrutter/wimsey) - Simple and flexible data contracts library, supports profiling and manually specified contracts in json, yaml or python by [@benrutter](https://github.com/benrutter).
+
+#### Security / Privacy
+- [maskops](https://github.com/fcarvajalbrown/maskops) - Native Polars expression plugin for high-speed PII masking and detection, powered by Rust. Supports asterisk masking, HMAC-SHA256 deterministic pseudonymization, and FF3-1 format-preserving encryption. GDPR Art. 4(5)-compliant by [@fcarvajalbrown](https://github.com/fcarvajalbrown).
 
 #### String parsing
 - [polars-url](https://github.com/condekind/polars-url) - Polars plugin to parse/extract fields from urls by [@condekind](https://github.com/condekind).
