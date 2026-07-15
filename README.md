@@ -169,6 +169,8 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 
 #### AI
 - [polar_llama](https://github.com/daviddrummond95/polar_llama) - Polars plugin for interacting with LLMs in Polars by [@daviddrummond95](https://github.com/daviddrummond95).
+- [polars-skills](https://github.com/polars-inc/skills) - Official AI agent skills by [@polars-inc](https://github.com/polars-inc).
+- [polars-mcp](https://github.com/r-brink/polars-mcp) - A local MCP server for live API lookup against your installed Polars version by [@r-brink](https://github.com/r-brink).
 
 #### Language
 - [polar-whichlang](https://github.com/rmalouf/polars_whichlang) - Polars plugin for fast language identification by [@rmalouf](https://github.com/rmalouf).
