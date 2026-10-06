@@ -219,6 +219,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polarsFE](https://github.com/AdrianAntico/PolarsFE) - Polars plugins with helper functions for feature engineering, using Polars by [@AdrianAntico](https://github.com/AdrianAntico).
 - [polars-row-collector](https://github.com/DeflateAwning/polars-row-collector) - Facade to collect rows one-by-one into a Polars DataFrame with minimal overhead by [@DeflateAwning](https://github.com/DeflateAwning).
 - [polars-map](https://github.com/hafaio/polars-map) - Polars extension that provids a Map extension type and functions by [@hafaio](https://github.com/hafaio).
+- [polars-telemetry](https://github.com/jan-krueger/polars-telemetry) - Python package that profiles Polars queries: per-node timings and row counts, both plans in a browser viewer, findings on what slows a query down, and export to OpenTelemetry or DogStatsD by [@jan-krueger](https://github.com/jan-krueger).
 
 #### Statistics / Analytics
 - [polars_kde](https://github.com/schemaitat/polars_kde) - Polars plugin for kernel density estimation by @schemaitat.
