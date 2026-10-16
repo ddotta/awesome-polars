@@ -14,7 +14,7 @@ repo_name: !ENV [REPO_NAME, "ddotta/awesome-polars"]
 # Every page comes from README.md, so pin the edit link instead of letting
 # MkDocs append the (generated) page path.
 edit_uri_template: edit/main/README.md
-copyright: Released under the CC BY 4.0 licence
+copyright: Released under CC0 1.0 Universal
 
 theme:
   name: material
