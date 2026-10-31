@@ -336,6 +336,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [#100DaysOfPolars articles](https://www.conterval.com/blog/#category=100DaysOfPolars) - List of articles published by [@jorammutenge](https://github.com/jorammutenge) on linkedin #100DaysOfPolars.
 - [Python Polars Tutorial: A Complete Guide for Beginners](https://www.datacamp.com/tutorial/python-polars-tutorial-complete-guide-for-beginners) - A beginner tutorial to learn how to use Polars in Python by [@datacamp](https://github.com/datacamp).
 - [A tidyverse user's guide to Polars](https://chuvanan.github.io/cookbook-python-polars/) - A practical cookbook for R/tidyverse users learning the Polars DataFrame library for Python. Each section pairs Polars syntax with its dplyr/tidyr/lubridate equivalent so the concepts map directly onto what you already know.
+- [U.S. bank analysis with Polars and DuckDB](https://github.com/anshuman-pandey/us-bank-data/blob/v0.2.0/notebooks/05_polars_duckdb_bank_data.ipynb) - A runnable notebook on lazy Parquet scans, validated identity joins, missing-value handling, and SQL reconciliation using a frozen FDIC bank dataset.
 
 ### Blog posts
 
