@@ -190,6 +190,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-backtest](https://github.com/Yvictor/polars_backtest_extension) - Polars extension for high-performance portfolio backtesting with Rust, Arrow, T+1 execution, and trade reports by [@Yvictor](https://github.com/Yvictor).
 - [quantwave](https://github.com/lavs9/quantwave) - Polars-native technical analysis (221 indicators), execution-aware backtesting, and batch/streaming parity with a Rust core and agent skill by [@lavs9](https://github.com/lavs9).
 - [polars-anta](https://github.com/huuan26/polars-anta) - Ultra-fast, zero-C technical analysis and factor library with 100+ indicators powered natively by Polars expressions by [@huuan26](https://github.com/huuan26).
+- [polars-talib-fast](https://github.com/meet-brad-ch/polars-talib-fast) - Every TA-Lib function (237) as a Polars expression, on TA-Lib's official Rust port, with TA-Lib's default parameters and output names by [@meet-brad-ch](https://github.com/meet-brad-ch).
 
 
 #### Networking
