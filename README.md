@@ -4,6 +4,8 @@
 
 *A curated list of [Polars](https://pola.rs/) docs, talks, tools, examples & articles the internet has to offer.*
 
+An overview page showcasing community-developed plugins within the Polars ecosystem is available at https://ddotta.github.io/polars-plugins/
+
 [Polars](https://pola.rs/) is a lightning-fast DataFrame library for Rust, Python, Node.js and R.
 Implemented in Rust, Polars uses [Apache Arrow Columnar Format](https://arrow.apache.org/docs/format/Columnar.html) as the memory model.
 
