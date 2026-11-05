@@ -269,6 +269,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polarssql](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 - [r-polars-dashboard](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
 - [neo-r-polars](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
+- [polars-ros](https://github.com/phobson/polars-ros) - Polars integration for processing Robot Operating System (ROS) data by [@phobson](https://github.com/phobson).
 
 ### Go
 - [go-polars](https://github.com/jordandelbar/go-polars) This project creates Go bindings for Polars.
