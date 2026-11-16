@@ -126,6 +126,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [pl-compare](https://codeberg.org/concur1/pl-compare) - Compare Dataframes to find difference in the schemas, rows and column values by [@concur1](https://codeberg.org/concur1).
 - [polarstation](https://github.com/const-ae/polarstation) - Helper functions to simplify creating and working with Enums by [const-ae](https://github.com/const-ae).
 - [polynx](https://github.com/LowellWinston/polynx) - Pandas-style `query`, `eval`, `assign` and group-by on string expressions, compiled to native Polars expressions with `@var` substitution, UDFs and LazyFrame support by [@LowellWinston](https://github.com/LowellWinston).
+- [polars-bigquery-client](https://github.com/pola-rs/polars-bigquery-client) - BigQuery client for Polars by [@pola-rs](https://github.com/pola-rs).
 
 
 #### Geographical / Spatial
