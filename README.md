@@ -113,6 +113,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-mongo](https://github.com/AThomas314/polars-mongo/) - Polars IO plugin that extends polars to read from mongodb collections via the LazyFrame apis by [@AThomas314](https://github.com/AThomas314).  
 - [polars-io-tools](https://github.com/Point72/polars-io-tools) - Polars plugin extending lazy execution and predicate pushdown across external data sources (SQL, ClickHouse, Datadog, Delta Lake) by [@Point72](https://github.com/Point72/).  
 - [adbc-driver-orkidea](https://github.com/Tnsor-Labs/orkidea-adbc) - ADBC driver for Oracle Database, written in Rust, that reads query results as Arrow, for `pl.read_database` or `cursor.fetch_polars()`, with no Oracle Instant Client needed, by [@Tnsor-Labs](https://github.com/Tnsor-Labs).
+- [polars-yahoo](https://github.com/Jebel-Quant/polars-yahoo) - Minimal Yahoo Finance price history as Polars DataFrames by [@Jebel-Quant](https://github.com/Jebel-Quant).
 
 #### Data Manipulation
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
@@ -126,6 +127,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [pl-compare](https://codeberg.org/concur1/pl-compare) - Compare Dataframes to find difference in the schemas, rows and column values by [@concur1](https://codeberg.org/concur1).
 - [polarstation](https://github.com/const-ae/polarstation) - Helper functions to simplify creating and working with Enums by [const-ae](https://github.com/const-ae).
 - [polynx](https://github.com/LowellWinston/polynx) - Pandas-style `query`, `eval`, `assign` and group-by on string expressions, compiled to native Polars expressions with `@var` substitution, UDFs and LazyFrame support by [@LowellWinston](https://github.com/LowellWinston).
+- [polars-bigquery-client](https://github.com/pola-rs/polars-bigquery-client) - BigQuery client for Polars by [@pola-rs](https://github.com/pola-rs).
 
 
 #### Geographical / Spatial
