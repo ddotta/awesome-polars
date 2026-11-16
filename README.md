@@ -112,6 +112,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [excelsior](https://github.com/krakotay/excelsior) - High-performance library for modifying Excel files with Polars.
 - [polars-mongo](https://github.com/AThomas314/polars-mongo/) - Polars IO plugin that extends polars to read from mongodb collections via the LazyFrame apis by [@AThomas314](https://github.com/AThomas314).  
 - [polars-io-tools](https://github.com/Point72/polars-io-tools) - Polars plugin extending lazy execution and predicate pushdown across external data sources (SQL, ClickHouse, Datadog, Delta Lake) by [@Point72](https://github.com/Point72/).  
+- [polars-yahoo](https://github.com/Jebel-Quant/polars-yahoo) - Minimal Yahoo Finance price history as Polars DataFrames by [@Jebel-Quant](https://github.com/Jebel-Quant).
 
 #### Data Manipulation
 - [tidypolars](https://tidypolars.readthedocs.io/en/latest/) `tidypolars` python library built on top of polars library that gives access to methods and functions familiar to R tidyverse users.
