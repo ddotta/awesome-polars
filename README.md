@@ -208,6 +208,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polars-pairing](https://github.com/apcamargo/polars-pairing) - Polars plugin that provides pairing functions that encode two natural numbers into a single natural number by [@apcamargo](https://github.com/apcamargo).
 - [polars_rng](https://github.com/alipatti/polars_rng) - Random number generation in Polars via the expression API by [@alipatti](https://github.com/alipatti).
 - [polars-stats](https://github.com/FBruzzesi/polars-stats) - Polars expression plugin that exposes scipy.stats-style probability distributions by [@FBruzzesi](https://github.com/FBruzzesi).
+- [polars-ros](https://github.com/phobson/polars-ros) - Imputing left-censored data with Regression-on-Order Statistics [@phobson](https://github.com/phobson).
 
 #### General utilities / Performance
 - [polars for Python](https://github.com/pola-rs/polars/tree/master/py-polars) - [Python](https://www.python.org/) `polars` package to use polars DataFrame from Python.
@@ -275,7 +276,6 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polarssql](https://github.com/rpolars/r-polarssql) - `polarssql` experimental package which is a DBI-compliant interface to Polars.
 - [r-polars-dashboard](https://github.com/etiennebacher/r-polars-dashboard) - Dashboard comparing r-polars and py-polars APIs.
 - [neo-r-polars](https://github.com/eitsupi/neo-r-polars) - Next generation of Polars [R](https://www.r-project.org/) API.
-- [polars-ros](https://github.com/phobson/polars-ros) - Polars integration for processing Robot Operating System (ROS) data by [@phobson](https://github.com/phobson).
 
 ### Go
 - [go-polars](https://github.com/jordandelbar/go-polars) This project creates Go bindings for Polars.
@@ -512,3 +512,4 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [Damien Dotta (@ddotta)](https://github.com/ddotta ) - Maintainer of Awesome Polars list
 
 Thanks goes to these [contributors](https://github.com/ddotta/awesome-polars/graphs/contributors)!
+
