@@ -128,6 +128,7 @@ You can also try to [Polars plugins Cookiecutter](https://github.com/MarcoGorell
 - [polarstation](https://github.com/const-ae/polarstation) - Helper functions to simplify creating and working with Enums by [const-ae](https://github.com/const-ae).
 - [polynx](https://github.com/LowellWinston/polynx) - Pandas-style `query`, `eval`, `assign` and group-by on string expressions, compiled to native Polars expressions with `@var` substitution, UDFs and LazyFrame support by [@LowellWinston](https://github.com/LowellWinston).
 - [polars-bigquery-client](https://github.com/pola-rs/polars-bigquery-client) - BigQuery client for Polars by [@pola-rs](https://github.com/pola-rs).
+- [freshdata](https://github.com/FreshCode-Org/freshdata) - Writes a reviewable cleaning plan (impute, clip, dedupe, rename) and applies it to a Polars LazyFrame as native expressions, without collecting, by [@JohnnyWilson16](https://github.com/JohnnyWilson16).
 
 
 #### Geographical / Spatial
